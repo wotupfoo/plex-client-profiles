@@ -2,24 +2,57 @@
 <Client name="Android">
   <!-- Author: Plex Inc. -->
   <TranscodeTargets>
-    <VideoProfile protocol="hls" container="mpegts" codec="h264" audioCodec="aac" context="streaming" />
-    <VideoProfile container="mp4" codec="h264" audioCodec="aac" context="static" />
-    <MusicProfile container="mp3" codec="mp3" id="StereoMusicTranscodeProfile" />
+    <VideoProfile protocol="hls" 
+                  container="mpegts" 
+                  codec="h264" 
+                  audioCodec="aac" 
+                  context="streaming" />
+    <VideoProfile container="mp4" 
+                  codec="h264" audioCodec="aac" 
+                  context="static" />
+    <MusicProfile container="mp3" 
+                  codec="mp3" 
+                  id="StereoMusicTranscodeProfile" />
     <PhotoProfile container="jpeg" />
   </TranscodeTargets>
+
   <DirectPlayProfiles>
-    <VideoProfile container="mkv" codec="h264,mpeg4" audioCodec="aac,he-aac,mp3,pcm,flac"  />
-    <VideoProfile container="mp4" codec="hevc,h265" audioCodec="aac,he-aac,mp3,pcm,flac" subtitleCodec="mov_text,tx3g,ttxt,text" />
-    <VideoProfile container="mkv" codec="hevc,h265" audioCodec="aac,he-aac,mp3,pcm,flac"  subtitleCodec="mov_text,tx3g,ttxt,text"/>
-    <VideoProfile container="mp4" codec="h264,mpeg4" audioCodec="aac,he-aac,mp3,pcm,flac"  />
-    <VideoProfile container="mkv" codec="h264,mpeg4" audioCodec="aac,he-aac,mp3,pcm,flac"  />
-    <VideoProfile protocol="hls" container="mpegts" codec="h264" audioCodec="aac,he-aac,mp3,pcm,flacc" subtitleCodec="mov_text,tx3g,ttxt,text" />
-    <VideoProfile protocol="hls" container="mpegts" codec="h265" audioCodec="aac,he-aac,mp3,pcm,flacc" subtitleCodec="mov_text,tx3g,ttxt,text" />
-    <MusicProfile container="mp3" codec="mp3" />
-    <MusicProfile container="flac" codec="flac" />
-    <MusicProfile container="ogg" codec="vorbis" />
+    <VideoProfile container="mkv" 
+                  codec="h264,mpeg4" 
+                  audioCodec="aac,he-aac,mp3,pcm,flac"  />
+    <VideoProfile container="mp4" 
+                  codec="hevc,h265" 
+                  audioCodec="aac,he-aac,mp3,pcm,flac" 
+                  subtitleCodec="mov_text,tx3g,ttxt,text" />
+    <VideoProfile container="mkv" 
+                  codec="hevc,h265" 
+                  audioCodec="aac,he-aac,mp3,pcm,flac"  
+                  subtitleCodec="mov_text,tx3g,ttxt,text"/>
+    <VideoProfile container="mp4" 
+                  codec="h264,mpeg4" 
+                  audioCodec="aac,he-aac,mp3,pcm,flac"  />
+    <VideoProfile container="mkv" 
+                  codec="h264,mpeg4" 
+                  audioCodec="aac,he-aac,mp3,pcm,flac"  />
+    <VideoProfile protocol="hls" 
+                  container="mpegts" 
+                  codec="h264" 
+                  audioCodec="aac,he-aac,mp3,pcm,flacc" 
+                  subtitleCodec="mov_text,tx3g,ttxt,text" />
+    <VideoProfile protocol="hls" 
+                  container="mpegts" 
+                  codec="h265" 
+                  audioCodec="aac,he-aac,mp3,pcm,flacc" 
+                  subtitleCodec="mov_text,tx3g,ttxt,text" />
+    <MusicProfile container="mp3" 
+                  codec="mp3" />
+    <MusicProfile container="flac" 
+                  codec="flac" />
+    <MusicProfile container="ogg" 
+                  codec="vorbis" />
     <PhotoProfile container="jpeg,gif,bmp,png" />
   </DirectPlayProfiles>
+
   <ContainerProfiles>
     <VideoContainer name="mp4">
       <Limitations>
@@ -27,6 +60,7 @@
       </Limitations>
     </VideoContainer>
   </ContainerProfiles>
+  
   <CodecProfiles>
     <VideoCodec name="*">
       <Limitations>
@@ -37,14 +71,22 @@
 		<UpperBound name="video.bitDepth" value="10" />
       </Limitations>
     </VideoCodec>
+
     <VideoCodec name="h264">
       <Limitations>
         <Match name="video.profile" list="baseline|main|high"  isRequired="false" />
       </Limitations>
     </VideoCodec>
+
     <VideoAudioCodec name="aac">
       <Limitations>
         <UpperBound name="audio.channels" value="6" />
+      </Limitations>
+    </VideoAudioCodec>
+
+    <VideoAudioCodec name="dca">
+      <Limitations>
+        <UpperBound name="audio.bitrate" value="1" />
       </Limitations>
     </VideoAudioCodec>
   </CodecProfiles>
