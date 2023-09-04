@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1" allowSync="1" identifier="com.plexapp.plugins.library" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="6db2de2d-3fcc-44d2-a8c2-136822f3307b" mediaTagPrefix="/system/bundle/media/flags/" mediaTagVersion="1667296136">
+<Video ratingKey="1044" key="/library/metadata/1044" guid="plex://movie/5d77682785719b001f3a0d8e" studio="Warner Bros. Pictures" type="movie" title="Harry Potter and the Sorcerer&#39;s Stone" librarySectionTitle="Movies" librarySectionID="1" librarySectionKey="/library/sections/1" contentRating="PG" summary="Harry Potter has lived under the stairs at his aunt and uncle&#39;s house his whole life. But on his 11th birthday, he learns he&#39;s a powerful wizard&#8212;with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school&#39;s kindly headmaster, Harry uncovers the truth about his parents&#39; deaths&#8212;and about the villain who&#39;s to blame." rating="8.1" audienceRating="8.2" viewOffset="1732824" lastViewedAt="1687107671" year="2001" tagline="Let the magic begin." thumb="/library/metadata/1044/thumb/1685009933" art="/library/metadata/1044/art/1685009933" duration="9141536" originallyAvailableAt="2001-11-16" addedAt="1564256120" updatedAt="1685009933" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="2049" duration="9141536" bitrate="22897" width="1920" height="1080" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="vc1" videoResolution="1080" container="mkv" videoFrameRate="24p" videoProfile="advanced">
+<Part accessible="1" exists="1" id="2049" key="/library/parts/2049/1564256120/file.mkv" duration="9141536" file="/volume1/Plex/Library/Media/Movies/Harry Potter/Harry Potter and the Sorcerer&#39;s Stone (2001).mkv" size="26169270441" container="mkv" deepAnalysisVersion="6" requiredBandwidths="26887,26548,26200,25815,25795,25795,25795,25795" videoProfile="advanced">
+<Stream id="4730" streamType="1" codec="vc1" index="0" bitrate="17601" language="English" languageTag="en" languageCode="eng" bitDepth="8" chromaLocation="left" chromaSubsampling="4:2:0" codedHeight="1080" codedWidth="1920" colorPrimaries="bt709" colorSpace="bt709" colorTrc="bt709" frameRate="23.976" height="1080" level="3" profile="advanced" refFrames="1" requiredBandwidths="21583,21266,20902,20549,20549,20549,20549,20549" scanType="progressive" width="1920" displayTitle="1080p (VC1)" extendedDisplayTitle="1080p (VC1)">
+</Stream>
+<Stream id="4731" streamType="2" selected="1" default="1" codec="ac3" index="1" channels="6" bitrate="640" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Surround 5.1" displayTitle="English (AC3 5.1)" extendedDisplayTitle="Surround 5.1 (English AC3)">
+</Stream>
+<Stream id="4732" streamType="2" codec="pcm" index="2" channels="6" bitrate="4608" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" profile="pcm_s16le" requiredBandwidths="4606,4606,4606,4606,4606,4606,4606,4606" samplingRate="48000" title="Surround 5.1" displayTitle="English (PCM 5.1)" extendedDisplayTitle="Surround 5.1 (English PCM)">
+</Stream>
+<Stream id="4733" streamType="3" codec="pgs" index="3" bitrate="23" language="English" languageTag="en" languageCode="eng" requiredBandwidths="63,63,63,63,63,63,63,63" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4734" streamType="3" codec="pgs" index="4" bitrate="24" language="English" languageTag="en" languageCode="eng" requiredBandwidths="50,50,50,50,50,50,50,50" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+</Part>
+</Media>
+<Genre id="323" filter="genre=323" tag="Adventure" />
+<Genre id="1088" filter="genre=1088" tag="Fantasy" />
+<Genre id="2297" filter="genre=2297" tag="Family" />
+<Director id="36972" filter="director=36972" tag="Chris Columbus" />
+<Writer id="36973" filter="writer=36973" tag="J.K. Rowling" />
+<Writer id="36974" filter="writer=36974" tag="Steve Kloves" />
+<Producer id="37046" filter="producer=37046" tag="David Heyman" />
+<Country id="97" filter="country=97" tag="United Kingdom" />
+<Country id="8" filter="country=8" tag="United States of America" />
+<Guid id="imdb://tt0241527" />
+<Guid id="tmdb://671" />
+<Guid id="tvdb://66" />
+<Rating image="imdb://image.rating" value="7.6" type="audience" />
+<Rating image="rottentomatoes://image.rating.ripe" value="8.1" type="critic" />
+<Rating image="rottentomatoes://image.rating.upright" value="8.2" type="audience" />
+<Rating image="themoviedb://image.rating" value="7.9" type="audience" />
+<Role id="36975" filter="actor=36975" tag="Daniel Radcliffe" tagKey="5d7768278718ba001e311e3f" role="Harry Potter" thumb="https://metadata-static.plex.tv/9/people/9228404ce49d071576437bd4f8b2019a.jpg" />
+<Role id="36976" filter="actor=36976" tag="Rupert Grint" tagKey="5d7768278718ba001e311e40" role="Ron Weasley" thumb="https://metadata-static.plex.tv/9/people/9c9f282a88be0896ed803514cf0f1e50.jpg" />
+<Role id="36977" filter="actor=36977" tag="Emma Watson" tagKey="5d7768278718ba001e311e41" role="Hermione Granger" thumb="https://metadata-static.plex.tv/1/people/157d257d41cf1527d71ede81f1e97c70.jpg" />
+<Role id="36981" filter="actor=36981" tag="Richard Harris" tagKey="5d7768267228e5001f1dcdb7" role="Albus Dumbledore" thumb="https://metadata-static.plex.tv/b/people/b4340d6d9ce595901d8683fbf894b699.jpg" />
+<Role id="36988" filter="actor=36988" tag="Tom Felton" tagKey="5d7768278718ba001e311e42" role="Draco Malfoy" thumb="https://metadata-static.plex.tv/e/people/e12ec5416577169521c3b4e324072363.jpg" />
+<Role id="36983" filter="actor=36983" tag="Alan Rickman" tagKey="5d7768253c3c2a001fbcac3e" role="Severus Snape" thumb="https://metadata-static.plex.tv/6/people/632e39a33ad0fc6b55f0cd5d72319ce7.jpg" />
+<Role id="36381" filter="actor=36381" tag="Robbie Coltrane" tagKey="5d7768262ec6b5001f6ba37a" role="Rubeus Hagrid" thumb="https://metadata-static.plex.tv/people/5d7768262ec6b5001f6ba37a.jpg" />
+<Role id="36985" filter="actor=36985" tag="Maggie Smith" tagKey="5d7768278718ba001e311e44" role="Minerva McGonagall" thumb="https://metadata-static.plex.tv/8/people/8d06406e7d3870421bb7ee1364d9b8c1.jpg" />
+<Role id="36980" filter="actor=36980" tag="Richard Griffiths" tagKey="5d7768278718ba001e311e4b" role="Vernon Dursley" thumb="https://metadata-static.plex.tv/4/people/4591b8259f2f4e3b07faacd65158e3dc.jpg" />
+<Role id="37279" filter="actor=37279" tag="Ian Hart" tagKey="5d77682785719b001f3a0fa7" role="Quirinus Quirrell / Lord Voldemort (voice)" thumb="https://metadata-static.plex.tv/3/people/3ddccb68508a63c017747388583799fc.jpg" />
+<Role id="36984" filter="actor=36984" tag="Fiona Shaw" tagKey="5d7768278718ba001e311e4c" role="Petunia Dursley" thumb="https://metadata-static.plex.tv/1/people/1cd5451da08a02fee9a042d8fe8d73fb.jpg" />
+<Role id="37051" filter="actor=37051" tag="John Hurt" tagKey="5d776825999c64001ec2bfab" role="Mr. Ollivander" thumb="https://metadata-static.plex.tv/1/people/125beaecb84543d873377d3811b0db95.jpg" />
+<Role id="36987" filter="actor=36987" tag="David Bradley" tagKey="5d7768278718ba001e311e45" role="Argus Filch" thumb="https://metadata-static.plex.tv/c/people/c334539ca4dd1bd9ed13d422b42f49b6.jpg" />
+<Role id="37004" filter="actor=37004" tag="Matthew Lewis" tagKey="5d7768278718ba001e311e47" role="Neville Longbottom" thumb="https://metadata-static.plex.tv/2/people/29268374c44764890a3b5d1ca121b548.jpg" />
+<Role id="36989" filter="actor=36989" tag="Sean Biggerstaff" tagKey="5d7768278718ba001e311e53" role="Oliver Wood" thumb="https://metadata-static.plex.tv/4/people/441c407330c9bbb2341c45569b42ebdb.jpg" />
+<Role id="36979" filter="actor=36979" tag="Warwick Davis" tagKey="5d7768278718ba001e311e55" role="Goblin Bank Teller / Filius Flitwick / Griphook (voice)" thumb="https://metadata-static.plex.tv/4/people/413f4075b597d4f466241c37e6515d94.jpg" />
+<Role id="36995" filter="actor=36995" tag="Harry Melling" tagKey="5d7768278718ba001e311e4d" role="Dudley Dursley" thumb="https://metadata-static.plex.tv/7/people/78c4832213664699188dd2fbc12c08a8.jpg" />
+<Role id="36997" filter="actor=36997" tag="James Phelps" tagKey="5d7768278718ba001e311e49" role="Fred Weasley" thumb="https://metadata-static.plex.tv/3/people/300f6534a2043a6e9f1ff916551a2189.jpg" />
+<Role id="36998" filter="actor=36998" tag="Oliver Phelps" tagKey="5d7768278718ba001e311e4a" role="George Weasley" thumb="https://metadata-static.plex.tv/8/people/8cab6dd75de83992d3b07d4b4d22a948.jpg" />
+<Role id="36336" filter="actor=36336" tag="John Cleese" tagKey="5d776827880197001ec90a46" role="Nearly Headless Nick" thumb="https://metadata-static.plex.tv/a/people/ad96513eb8af3fd41a40de6e0da3656f.jpg" />
+<Role id="36999" filter="actor=36999" tag="Chris Rankin" tagKey="5d7768278718ba001e311e54" role="Percy Weasley" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e54.jpg" />
+<Role id="37005" filter="actor=37005" tag="Alfred Enoch" tagKey="5d7768278718ba001e311e51" role="Dean Thomas" thumb="https://metadata-static.plex.tv/1/people/156cd4435410431f944660d54612195f.jpg" />
+<Role id="37006" filter="actor=37006" tag="Devon Murray" tagKey="5d7768278718ba001e311e52" role="Seamus Finnigan" thumb="https://metadata-static.plex.tv/e/people/e1eb44de478d3a37dcb83edd65b02d88.jpg" />
+<Role id="37002" filter="actor=37002" tag="Jamie Waylett" tagKey="5d7768278718ba001e311e4f" role="Crabbe" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e4f.jpg" />
+<Role id="37001" filter="actor=37001" tag="Josh Herdman" tagKey="5d7768278718ba001e311e50" role="Goyle" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e50.jpg" />
+<Role id="37280" filter="actor=37280" tag="Zo&#235; Wanamaker" tagKey="5d77682785719b001f3a0fa8" role="Madame Hooch" thumb="https://metadata-static.plex.tv/e/people/e24495c6fea8a1db4f681e04971fce18.jpg" />
+<Role id="36986" filter="actor=36986" tag="Julie Walters" tagKey="5d77682654f42c001f8c26b3" role="Molly Weasley" thumb="https://metadata-static.plex.tv/people/5d77682654f42c001f8c26b3.jpg" />
+<Role id="36996" filter="actor=36996" tag="Bonnie Wright" tagKey="5d7768278718ba001e311e46" role="Ginny Weasley" thumb="https://metadata-static.plex.tv/9/people/9a41958b234df5ec21a5db45990ba216.jpg" />
+<Role id="37007" filter="actor=37007" tag="Luke Youngblood" tagKey="5d7768278718ba001e311e5a" role="Lee Jordan" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e5a.jpg" />
+<Role id="37281" filter="actor=37281" tag="Verne Troyer" tagKey="5d77682785719b001f3a0fa9" role="Griphook" thumb="https://metadata-static.plex.tv/5/people/5ed7dd3c32cdf99b78b66f504d79bcd1.jpg" />
+<Role id="37119" filter="actor=37119" tag="Adrian Rawlins" tagKey="5d77682585719b001f3a04f6" role="James Potter" thumb="https://metadata-static.plex.tv/people/5d77682585719b001f3a04f6.jpg" />
+<Role id="37120" filter="actor=37120" tag="Geraldine Somerville" tagKey="5d7768278718ba001e311e66" role="Lily Potter" thumb="https://metadata-static.plex.tv/9/people/920f7e94499ac791aac7f732d799737f.jpg" />
+<Role id="37282" filter="actor=37282" tag="Elizabeth Spriggs" tagKey="5d77682785719b001f3a0faa" role="The Fat Lady" thumb="https://metadata-static.plex.tv/9/people/9c31232534f87e6d7b4a42d3124bec0a.jpg" />
+<Role id="37283" filter="actor=37283" tag="Richard Bremmer" tagKey="5d77682785719b001f3a0fab" role="Lord Voldemort" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fab.jpg" />
+<Role id="36618" filter="actor=36618" tag="Nina Young" tagKey="5d7768278718ba001e311e65" role="The Grey Lady" thumb="https://metadata-static.plex.tv/a/people/aa18e04ee3e7160025c33984c42a6d29.jpg" />
+<Role id="37284" filter="actor=37284" tag="Terence Bayler" tagKey="5d776827880197001ec90a48" role="The Bloody Baron" thumb="https://metadata-static.plex.tv/people/5d776827880197001ec90a48.jpg" />
+<Role id="37021" filter="actor=37021" tag="Harry Taylor" tagKey="5d7768243c3c2a001fbca934" role="Station Guard (uncredited)" thumb="https://metadata-static.plex.tv/a/people/a5cf3f1074c3e44cfe23518a69a65069.jpg" />
+<Role id="37285" filter="actor=37285" tag="Jean Southern" tagKey="5d77682785719b001f3a0fac" role="Trolley Witch (uncredited)" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fac.jpg" />
+<Role id="37039" filter="actor=37039" tag="Leslie Phillips" tagKey="5d776827880197001ec90a5e" role="The Sorting Hat (voice)" thumb="https://metadata-static.plex.tv/d/people/d56148c701976ffda17b355ea751225b.jpg" />
+<Role id="37286" filter="actor=37286" tag="Simon Fisher-Becker" tagKey="5d77682785719b001f3a0fad" role="Fat Friar" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fad.jpg" />
+<Role id="37287" filter="actor=37287" tag="Derek Deadman" tagKey="5d77682785719b001f3a0fae" role="Tom" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fae.jpg" />
+<Role id="37288" filter="actor=37288" tag="Ray Fearon" tagKey="5d77682785719b001f3a0faf" role="Firenze (voice)" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0faf.jpg" />
+<Role id="37020" filter="actor=37020" tag="Eleanor Columbus" tagKey="5d7768278718ba001e311e5b" role="Susan Bones" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e5b.jpg" />
+<Role id="37014" filter="actor=37014" tag="Ben Borowiecki" tagKey="5d7768278718ba001e311e6a" role="Diagon Alley Boy" />
+<Role id="37024" filter="actor=37024" tag="Danielle Tabor" tagKey="63248f2689abebe5ccae8c46" role="Angelina Johnson" thumb="https://metadata-static.plex.tv/0/people/0f1013d80eb2c77d46bad011e6d156f1.jpg" />
+<Role id="37289" filter="actor=37289" tag="Leilah Sutherland" tagKey="5d77682785719b001f3a0fb0" role="Alicia Spinnet" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fb0.jpg" />
+<Role id="37023" filter="actor=37023" tag="Emily Dale" tagKey="5d7768278718ba001e311e5d" role="Katie Bell" />
+<Role id="37290" filter="actor=37290" tag="Will Theakston" tagKey="5ec4104dc3a83800425d216e" role="Marcus Flint" thumb="https://image.tmdb.org/t/p/original/zFhZw7JUcjVTr9nfobUhkq1pRnZ.jpg" />
+<Role id="37028" filter="actor=37028" tag="Scot Fearn" tagKey="5d77682785719b001f3a0fb2" role="Terrence Higgs" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fb2.jpg" />
+<Role id="37291" filter="actor=37291" tag="Saunders Triplets" tagKey="5d77682785719b001f3a0fb3" role="Baby Harry Potter (uncredited)" />
+<Role id="37292" filter="actor=37292" tag="Kieri Kennedy" tagKey="6323b2dc55d42bebe820b8bc" role="Child at Zoo (uncredited)" />
+<Role id="37293" filter="actor=37293" tag="Leila Hoffman" tagKey="5d77682785719b001f3a0fb8" role="Augusta Longbottom (uncredited)" thumb="https://image.tmdb.org/t/p/original/eI2eL9s2VVMVfmie7xO7jeDcLiM.jpg" />
+<Role id="37294" filter="actor=37294" tag="Julianne Hough" tagKey="5d7768780ea56a001e2a5c3a" role="Hogwarts Schoolgirl (uncredited)" thumb="https://metadata-static.plex.tv/c/people/c05df37fc2f0840b50c9c8b574f033ed.jpg" />
+<Role id="37295" filter="actor=37295" tag="Zoe Sugg" tagKey="63238dc2d87465e2e5eeac49" role="Girl in Potion Class (uncredited)" />
+<Role id="37296" filter="actor=37296" tag="Jimmy Vee" tagKey="5d77682785719b001f3a0fb4" role="Goblin (uncredited)" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fb4.jpg" />
+<Role id="37297" filter="actor=37297" tag="Derek Hough" tagKey="5d7768c347dd6e001f6be5db" role="Ravenclaw Student (uncredited)" thumb="https://metadata-static.plex.tv/people/5d7768c347dd6e001f6be5db.jpg" />
+<Role id="37298" filter="actor=37298" tag="Dani Harmer" tagKey="5d77692ead5437001f7599cc" role="Student (uncredited)" thumb="https://metadata-static.plex.tv/7/people/7bff2215d0229ef938dbb26906035f1c.jpg" />
+<Role id="37299" filter="actor=37299" tag="Mark Ballas" tagKey="5d7768c3ebdf2200209c821f" role="Hogwarts Schoolboy (uncredited)" thumb="https://image.tmdb.org/t/p/original/Oxwhy8bCm2r0qN6i10XbtSaEgg.jpg" />
+<Role id="37300" filter="actor=37300" tag="Paul Marc Davis" tagKey="5d7768fd96b655001fdc7307" role="Lord Draben (uncredited)" thumb="https://metadata-static.plex.tv/5/people/54443cb327d1c642d3ec2afda9dca4ff.jpg" />
+<Role id="37026" filter="actor=37026" tag="Violet Columbus" tagKey="5d7768278718ba001e311e6e" role="Girl with Flowers (uncredited)" thumb="https://metadata-static.plex.tv/b/people/bc6d93aff4df1bd12dcd739c02b1aafc.jpg" />
+<Role id="39883" filter="actor=39883" tag="Paul Grant" tagKey="5d77682a61141d001fb13ca7" role="Goblin (uncredited)" thumb="https://metadata-static.plex.tv/4/people/4a55ad4cdf3a1aca2e839e9a82738b99.jpg" />
+<Chapter id="4" filter="thumb=4" index="1" startTimeOffset="0" endTimeOffset="245036" thumb="/library/media/2049/chapterImages/1" />
+<Chapter id="4" filter="thumb=4" index="2" startTimeOffset="245036" endTimeOffset="490781" thumb="/library/media/2049/chapterImages/2" />
+<Chapter id="4" filter="thumb=4" index="3" startTimeOffset="490781" endTimeOffset="737027" thumb="/library/media/2049/chapterImages/3" />
+<Chapter id="4" filter="thumb=4" index="4" startTimeOffset="737027" endTimeOffset="1104812" thumb="/library/media/2049/chapterImages/4" />
+<Chapter id="4" filter="thumb=4" index="5" startTimeOffset="1104812" endTimeOffset="1303260" thumb="/library/media/2049/chapterImages/5" />
+<Chapter id="4" filter="thumb=4" index="6" startTimeOffset="1303260" endTimeOffset="1481271" thumb="/library/media/2049/chapterImages/6" />
+<Chapter id="4" filter="thumb=4" index="7" startTimeOffset="1481271" endTimeOffset="1729102" thumb="/library/media/2049/chapterImages/7" />
+<Chapter id="4" filter="thumb=4" index="8" startTimeOffset="1729102" endTimeOffset="1864779" thumb="/library/media/2049/chapterImages/8" />
+<Chapter id="4" filter="thumb=4" index="9" startTimeOffset="1864779" endTimeOffset="2045168" thumb="/library/media/2049/chapterImages/9" />
+<Chapter id="4" filter="thumb=4" index="10" startTimeOffset="2045168" endTimeOffset="2269225" thumb="/library/media/2049/chapterImages/10" />
+<Chapter id="4" filter="thumb=4" index="11" startTimeOffset="2269225" endTimeOffset="2489069" thumb="/library/media/2049/chapterImages/11" />
+<Chapter id="4" filter="thumb=4" index="12" startTimeOffset="2489069" endTimeOffset="2773020" thumb="/library/media/2049/chapterImages/12" />
+<Chapter id="4" filter="thumb=4" index="13" startTimeOffset="2773020" endTimeOffset="3028650" thumb="/library/media/2049/chapterImages/13" />
+<Chapter id="4" filter="thumb=4" index="14" startTimeOffset="3028650" endTimeOffset="3303925" thumb="/library/media/2049/chapterImages/14" />
+<Chapter id="4" filter="thumb=4" index="15" startTimeOffset="3303925" endTimeOffset="3655151" thumb="/library/media/2049/chapterImages/15" />
+<Chapter id="4" filter="thumb=4" index="16" startTimeOffset="3655151" endTimeOffset="3823486" thumb="/library/media/2049/chapterImages/16" />
+<Chapter id="4" filter="thumb=4" index="17" startTimeOffset="3823486" endTimeOffset="4067646" thumb="/library/media/2049/chapterImages/17" />
+<Chapter id="4" filter="thumb=4" index="18" startTimeOffset="4067646" endTimeOffset="4428841" thumb="/library/media/2049/chapterImages/18" />
+<Chapter id="4" filter="thumb=4" index="19" startTimeOffset="4428841" endTimeOffset="4817813" thumb="/library/media/2049/chapterImages/19" />
+<Chapter id="4" filter="thumb=4" index="20" startTimeOffset="4817813" endTimeOffset="5034154" thumb="/library/media/2049/chapterImages/20" />
+<Chapter id="4" filter="thumb=4" index="21" startTimeOffset="5034154" endTimeOffset="5312056" thumb="/library/media/2049/chapterImages/21" />
+<Chapter id="4" filter="thumb=4" index="22" startTimeOffset="5312056" endTimeOffset="5501996" thumb="/library/media/2049/chapterImages/22" />
+<Chapter id="4" filter="thumb=4" index="23" startTimeOffset="5501996" endTimeOffset="5802171" thumb="/library/media/2049/chapterImages/23" />
+<Chapter id="4" filter="thumb=4" index="24" startTimeOffset="5802171" endTimeOffset="6154439" thumb="/library/media/2049/chapterImages/24" />
+<Chapter id="4" filter="thumb=4" index="25" startTimeOffset="6154439" endTimeOffset="6544579" thumb="/library/media/2049/chapterImages/25" />
+<Chapter id="4" filter="thumb=4" index="26" startTimeOffset="6544579" endTimeOffset="6801127" thumb="/library/media/2049/chapterImages/26" />
+<Chapter id="4" filter="thumb=4" index="27" startTimeOffset="6801127" endTimeOffset="7089248" thumb="/library/media/2049/chapterImages/27" />
+<Chapter id="4" filter="thumb=4" index="28" startTimeOffset="7089248" endTimeOffset="7424375" thumb="/library/media/2049/chapterImages/28" />
+<Chapter id="4" filter="thumb=4" index="29" startTimeOffset="7424375" endTimeOffset="7615691" thumb="/library/media/2049/chapterImages/29" />
+<Chapter id="4" filter="thumb=4" index="30" startTimeOffset="7615691" endTimeOffset="7854930" thumb="/library/media/2049/chapterImages/30" />
+<Chapter id="4" filter="thumb=4" index="31" startTimeOffset="7854930" endTimeOffset="8058300" thumb="/library/media/2049/chapterImages/31" />
+<Chapter id="4" filter="thumb=4" index="32" startTimeOffset="8058300" endTimeOffset="8249157" thumb="/library/media/2049/chapterImages/32" />
+<Chapter id="4" filter="thumb=4" index="33" startTimeOffset="8249157" endTimeOffset="8504245" thumb="/library/media/2049/chapterImages/33" />
+<Chapter id="4" filter="thumb=4" index="34" startTimeOffset="8504245" endTimeOffset="8650308" thumb="/library/media/2049/chapterImages/34" />
+<Chapter id="4" filter="thumb=4" index="35" startTimeOffset="8650308" endTimeOffset="9141510" thumb="/library/media/2049/chapterImages/35" />
+<Review id="3831" filter="art=3831" tag="Robert Denerstein" text="It offers more delights than disappointments -- and that qualifies as one of the year&#39;s great reliefs." image="rottentomatoes://image.review.fresh" source="Denver Rocky Mountain News" />
+<Review id="152" filter="art=152" tag="Jami Bernard" text="Harry Potter&#39;s first venture onto the screen is a solid blockbuster." image="rottentomatoes://image.review.fresh" link="http://www.nydailynews.com/entertainment/movies/great-start-years-harry-potter-remains-true-article-1.917966" source="New York Daily News" />
+<Review id="962" filter="art=962" tag="Claudia Puig" text="Though the film will undoubtedly please the young viewers who flock to it, ultimately many of the book&#39;s readers may wish for a more magical incarnation." image="rottentomatoes://image.review.fresh" link="http://www.usatoday.com/life/enter/movies/2001-11-16-harry-review.htm" source="USA Today" />
+<Review id="2233" filter="art=2233" tag="Bob Graham" text="The magic mostly works." image="rottentomatoes://image.review.fresh" link="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/05/31/DD77471.DTL" source="San Francisco Chronicle" />
+<Review id="166" filter="art=166" tag="Marc Savlov" text="It&#39;s the smaller touches, transposed in whole from the book, that make the film as good as it is." image="rottentomatoes://image.review.fresh" link="http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3a142200" source="Austin Chronicle" />
+<Review id="165" filter="art=165" tag="Nell Minow" text="First Potter movie is a magical ride but also intense." image="rottentomatoes://image.review.fresh" link="http://www.commonsensemedia.org/movie-reviews/harry-potter-and-sorcerers-stone " source="Common Sense Media" />
+<Review id="429" filter="art=429" tag="Steven D. Greydanus" text="So reverentially faithful to the first book that however you feel about the book is a pretty reliable indicator of how you&#39;ll feel about the movie." image="rottentomatoes://image.review.fresh" link="http://www.decentfilms.com/sections/reviews/1871" source="Decent Films" />
+<Review id="2731" filter="art=2731" tag="Jonathan Foreman" text="Remarkably faithful, consistently entertaining if overlong adapatation." image="rottentomatoes://image.review.fresh" link="http://nypost.com/2001/11/16/off-to-see-the-wizards-potter-is-a-faithful-if-not-great-movie/" source="New York Post" />
+<Review id="1250" filter="art=1250" tag="Anthony Lane" text="Harry Potter and the Sorcerer&#39;s Stone is, despite its trickery, that plainest and least surprising of artifacts: the work of art that is exactly the sum of its parts, neither more nor less." image="rottentomatoes://image.review.fresh" link="http://www.newyorker.com/archive/2001/11/19/011119crci_cinema?currentPage=1" source="New Yorker" />
+<Review id="77" filter="art=77" tag="Todd McCarthy" text="A near-perfect commercial and cultural commodity." image="rottentomatoes://image.review.fresh" link="http://www.variety.com/review/VE1117916310.html?categoryid=31&amp;cs=1" source="Variety" />
+<Review id="254" filter="art=254" tag="Jonathan Rosenbaum" text="I hear the J.K. Rowling books are great, and on the basis of this 2001 movie I&#39;m ready to believe it." image="rottentomatoes://image.review.fresh" link="http://onfilm.chicagoreader.com/movies/capsules/21144_HARRY_POTTER_AND_THE_SORCERERS_STONE" source="Chicago Reader" />
+<Review id="163" filter="art=163" tag="Peter Rainer" text="The filmmakers want to show us a magical world that is, at the same time, wholly believable. They want to create matter-of-fact miracles, but what they end up with is mostly just plain matter-of-fact." image="rottentomatoes://image.review.rotten" source="New York Magazine/Vulture" />
+<Review id="72" filter="art=72" tag="Richard Roeper" text="[A] complete triumph..." image="rottentomatoes://image.review.fresh" source="Ebert &amp; Roeper" />
+<Review id="251" filter="art=251" tag="Rita Kempley" text="You can&#39;t expect perfection from muggles." image="rottentomatoes://image.review.rotten" link="http://www.washingtonpost.com/wp-dyn/content/article/2001/11/16/AR2005033116973.html" source="Washington Post" />
+<Review id="2555" filter="art=2555" tag="Andrew O&#39;Hehir" text="Professional entertainment with just enough human moments to squeak by." image="rottentomatoes://image.review.fresh" link="http://www.salon.com/2001/11/16/harry_potter_3/" source="Salon.com" />
+<Review id="86" filter="art=86" tag="David Edelstein" text="As a movie, Harry Potter and the Sorcerer&#39;s Stone has no inner life -- no pulse -- of its own: It&#39;s secondhand." image="rottentomatoes://image.review.rotten" link="http://www.slate.com/articles/arts/movies/2001/11/flat_magic.html" source="Slate" />
+<Review id="195" filter="art=195" tag="Roger Ebert" text="During Harry Potter and the Sorcerer&#39;s Stone, I was pretty sure I was watching a classic, one that will be around for a long time, and make many generations of fans." image="rottentomatoes://image.review.fresh" link="http://www.rogerebert.com/reviews/harry-potter-and-the-sorcerers-stone-2001" source="Chicago Sun-Times" />
+<Review id="807" filter="art=807" tag="Steven Rosen" text="The movie needs to be stronger dramatically, with a much more appealing central performance, to be the great family-oriented screen fantasy so many wanted." image="rottentomatoes://image.review.fresh" link="http://www.denverpost.com/Stories/0,1002,82%257E224762,00.html" source="Denver Post" />
+<Review id="540" filter="art=540" tag="Jay Carr" text="For every flight, the film serves up equal amounts of flattened-out shortfall." image="rottentomatoes://image.review.rotten" link="http://www.boston.com/movies/display?display=movie&amp;id=17" source="Boston Globe" />
+<Review id="255" filter="art=255" tag="John Anderson" text="As it is, Harry&#39;s gotten a ride. But at a much lower altitude than his fans might have wished." image="rottentomatoes://image.review.fresh" source="Newsday" />
+<Preferences>
+<Setting id="languageOverride" label="Metadata language" summary="Language to use for item metadata such as synopsis and title." type="text" default="" value="" hidden="0" advanced="0" group="" enumValues=":Library default|ar-SA:Arabic (Saudi Arabia)|bg-BG:Bulgarian|ca-ES:Catalan|zh-CN:Chinese|zh-HK:Chinese (Hong Kong)|zh-TW:Chinese (Taiwan)|hr-HR:Croatian|cs-CZ:Czech|da-DK:Danish|nl-NL:Dutch|en-US:English|en-AU:English (Australia)|en-CA:English (Canada)|en-GB:English (UK)|et-EE:Estonian|fi-FI:Finnish|fr-FR:French|fr-CA:French (Canada)|de-DE:German|el-GR:Greek|he-IL:Hebrew|hi-IN:Hindi|hu-HU:Hungarian|id-ID:Indonesian|it-IT:Italian|ja-JP:Japanese|ko-KR:Korean|lv-LV:Latvian|lt-LT:Lithuanian|nb-NO:Norwegian Bokm&#229;l|fa-IR:Persian|pl-PL:Polish|pt-BR:Portuguese|pt-PT:Portuguese (Portugal)|ro-RO:Romanian|ru-RU:Russian|sk-SK:Slovak|es-ES:Spanish|es-MX:Spanish (Mexico)|sv-SE:Swedish|th-TH:Thai|tr-TR:Turkish|uk-UA:Ukrainian|vi-VN:Vietnamese" />
+<Setting id="useOriginalTitle" label="Use original title" summary="Use the original title for this item regardless of the library language." type="int" default="-1" value="-1" hidden="0" advanced="0" group="" enumValues="-1:Library default|0:No|1:Yes" />
+</Preferences>
+<Extras size="0">
+</Extras>
+<Related>
+<Hub hubKey="/library/metadata/1002" key="/library/metadata/1044/similar" title="Related Movies" type="movie" hubIdentifier="movie.similar" context="hub.movie.similar" size="1" more="1" style="shelf">
+<Video ratingKey="1002" key="/library/metadata/1002" guid="plex://movie/5d7768278718ba001e311d57" studio="Warner Bros. Pictures" type="movie" title="Harry Potter and the Chamber of Secrets" librarySectionTitle="Movies" librarySectionID="1" librarySectionKey="/library/sections/1" contentRating="PG" summary="Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione&#8217;s magical abilities and courage." rating="8.2" audienceRating="8.0" year="2002" tagline="Hogwarts is back in session." thumb="/library/metadata/1002/thumb/1685009930" art="/library/metadata/1002/art/1685009930" duration="9656199" originallyAvailableAt="2002-11-13" addedAt="1564262442" updatedAt="1685009930" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="1965" duration="9656199" bitrate="20705" width="1920" height="1080" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="vc1" videoResolution="1080" container="mkv" videoFrameRate="24p" videoProfile="advanced">
+<Part id="1965" key="/library/parts/1965/1564262442/file.mkv" duration="9656199" file="/volume1/Plex/Library/Media/Movies/Harry Potter/Harry Potter and the Chamber of Secrets (2002).mkv" size="24997547441" container="mkv" deepAnalysisVersion="6" requiredBandwidths="27888,27334,26518,25928,25354,24821,22561,22515" videoProfile="advanced">
+<Stream id="4594" streamType="1" codec="vc1" index="0" bitrate="15401" language="English" languageTag="en" languageCode="eng" bitDepth="8" chromaLocation="left" chromaSubsampling="4:2:0" codedHeight="1080" codedWidth="1920" frameRate="23.976" height="1080" level="3" profile="advanced" refFrames="1" requiredBandwidths="22566,22013,21249,20661,20086,19547,17245,17210" scanType="progressive" width="1920" displayTitle="1080p (VC1)" extendedDisplayTitle="1080p (VC1)">
+</Stream>
+<Stream id="4595" streamType="2" selected="1" default="1" codec="ac3" index="1" channels="6" bitrate="640" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Surround 5.1" displayTitle="English (AC3 5.1)" extendedDisplayTitle="Surround 5.1 (English AC3)">
+</Stream>
+<Stream id="4596" streamType="2" codec="pcm" index="2" channels="6" bitrate="4608" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" profile="pcm_s16le" requiredBandwidths="4606,4606,4606,4606,4606,4606,4606,4606" samplingRate="48000" title="Surround 5.1" displayTitle="English (PCM 5.1)" extendedDisplayTitle="Surround 5.1 (English PCM)">
+</Stream>
+<Stream id="4597" streamType="3" codec="pgs" index="3" bitrate="27" language="English" languageTag="en" languageCode="eng" requiredBandwidths="55,55,55,55,55,55,55,55" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4598" streamType="3" codec="pgs" index="4" bitrate="29" language="English" languageTag="en" languageCode="eng" requiredBandwidths="56,56,56,56,56,56,56,56" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+</Part>
+</Media>
+<Genre id="323" filter="genre=323" tag="Adventure" />
+<Genre id="1088" filter="genre=1088" tag="Fantasy" />
+<Genre id="2297" filter="genre=2297" tag="Family" />
+<Genre id="1195" filter="genre=1195" tag="Mystery" />
+<Director id="36972" filter="director=36972" tag="Chris Columbus" />
+<Writer id="36973" filter="writer=36973" tag="J.K. Rowling" />
+<Writer id="36974" filter="writer=36974" tag="Steve Kloves" />
+<Producer id="37046" filter="producer=37046" tag="David Heyman" />
+<Country id="97" filter="country=97" tag="United Kingdom" />
+<Country id="8" filter="country=8" tag="United States of America" />
+<Guid id="imdb://tt0295297" />
+<Guid id="tmdb://672" />
+<Guid id="tvdb://63" />
+<Rating image="imdb://image.rating" value="7.4" type="audience" />
+<Rating image="rottentomatoes://image.rating.ripe" value="8.2" type="critic" />
+<Rating image="rottentomatoes://image.rating.upright" value="8.0" type="audience" />
+<Rating image="themoviedb://image.rating" value="7.7" type="audience" />
+<Role id="36975" filter="actor=36975" tag="Daniel Radcliffe" tagKey="5d7768278718ba001e311e3f" role="Harry Potter" thumb="https://metadata-static.plex.tv/9/people/9228404ce49d071576437bd4f8b2019a.jpg" />
+<Role id="36976" filter="actor=36976" tag="Rupert Grint" tagKey="5d7768278718ba001e311e40" role="Ron Weasley" thumb="https://metadata-static.plex.tv/9/people/9c9f282a88be0896ed803514cf0f1e50.jpg" />
+<Role id="36977" filter="actor=36977" tag="Emma Watson" tagKey="5d7768278718ba001e311e41" role="Hermione Granger" thumb="https://metadata-static.plex.tv/1/people/157d257d41cf1527d71ede81f1e97c70.jpg" />
+<Role id="36978" filter="actor=36978" tag="Kenneth Branagh" tagKey="5d7768278718ba001e311e43" role="Gilderoy Lockhart" thumb="https://metadata-static.plex.tv/1/people/172207f2a27be58866e77253996005b2.jpg" />
+<Role id="36336" filter="actor=36336" tag="John Cleese" tagKey="5d776827880197001ec90a46" role="Nearly Headless Nick (Sir Nicholas)" thumb="https://metadata-static.plex.tv/a/people/ad96513eb8af3fd41a40de6e0da3656f.jpg" />
+<Role id="36381" filter="actor=36381" tag="Robbie Coltrane" tagKey="5d7768262ec6b5001f6ba37a" role="Rubeus Hagrid" thumb="https://metadata-static.plex.tv/people/5d7768262ec6b5001f6ba37a.jpg" />
+<Role id="36979" filter="actor=36979" tag="Warwick Davis" tagKey="5d7768278718ba001e311e55" role="Filius Flitwick" thumb="https://metadata-static.plex.tv/4/people/413f4075b597d4f466241c37e6515d94.jpg" />
+<Role id="36980" filter="actor=36980" tag="Richard Griffiths" tagKey="5d7768278718ba001e311e4b" role="Vernon Dursley" thumb="https://metadata-static.plex.tv/4/people/4591b8259f2f4e3b07faacd65158e3dc.jpg" />
+<Role id="36981" filter="actor=36981" tag="Richard Harris" tagKey="5d7768267228e5001f1dcdb7" role="Albus Dumbledore" thumb="https://metadata-static.plex.tv/b/people/b4340d6d9ce595901d8683fbf894b699.jpg" />
+<Role id="36982" filter="actor=36982" tag="Jason Isaacs" tagKey="5d776825151a60001f24a3ee" role="Lucius Malfoy" thumb="https://metadata-static.plex.tv/7/people/796f93b100da71d69f7131de7ebd5523.jpg" />
+<Role id="36983" filter="actor=36983" tag="Alan Rickman" tagKey="5d7768253c3c2a001fbcac3e" role="Severus Snape" thumb="https://metadata-static.plex.tv/6/people/632e39a33ad0fc6b55f0cd5d72319ce7.jpg" />
+<Role id="36984" filter="actor=36984" tag="Fiona Shaw" tagKey="5d7768278718ba001e311e4c" role="Petunia Dursley" thumb="https://metadata-static.plex.tv/1/people/1cd5451da08a02fee9a042d8fe8d73fb.jpg" />
+<Role id="36985" filter="actor=36985" tag="Maggie Smith" tagKey="5d7768278718ba001e311e44" role="Minerva McGonagall" thumb="https://metadata-static.plex.tv/8/people/8d06406e7d3870421bb7ee1364d9b8c1.jpg" />
+<Role id="36986" filter="actor=36986" tag="Julie Walters" tagKey="5d77682654f42c001f8c26b3" role="Molly Weasley" thumb="https://metadata-static.plex.tv/people/5d77682654f42c001f8c26b3.jpg" />
+<Role id="36987" filter="actor=36987" tag="David Bradley" tagKey="5d7768278718ba001e311e45" role="Argus Filch" thumb="https://metadata-static.plex.tv/c/people/c334539ca4dd1bd9ed13d422b42f49b6.jpg" />
+<Role id="36988" filter="actor=36988" tag="Tom Felton" tagKey="5d7768278718ba001e311e42" role="Draco Malfoy" thumb="https://metadata-static.plex.tv/e/people/e12ec5416577169521c3b4e324072363.jpg" />
+<Role id="36989" filter="actor=36989" tag="Sean Biggerstaff" tagKey="5d7768278718ba001e311e53" role="Oliver Wood" thumb="https://metadata-static.plex.tv/4/people/441c407330c9bbb2341c45569b42ebdb.jpg" />
+<Role id="36990" filter="actor=36990" tag="Robert Hardy" tagKey="5d7768278718ba001e311e56" role="Cornelius Fudge" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e56.jpg" />
+<Role id="36991" filter="actor=36991" tag="Shirley Henderson" tagKey="5d77682585719b001f3a04f7" role="Moaning Myrtle" thumb="https://metadata-static.plex.tv/6/people/6d6dd1dbad6819d350638b9622386ab9.jpg" />
+<Role id="36992" filter="actor=36992" tag="Gemma Jones" tagKey="5d7768278718ba001e311e57" role="Poppy Pomfrey" thumb="https://metadata-static.plex.tv/6/people/6c8a4428c2c9a2067f415ea74792703c.jpg" />
+<Role id="36993" filter="actor=36993" tag="Miriam Margolyes" tagKey="5d7768253c3c2a001fbcac66" role="Pomona Sprout" thumb="https://metadata-static.plex.tv/a/people/a37c826656d8b0ce66ee093c1ab51328.jpg" />
+<Role id="36994" filter="actor=36994" tag="Mark Williams" tagKey="5d7768278718ba001e311e4e" role="Arthur Weasley" thumb="https://metadata-static.plex.tv/b/people/b9bbe54748683d74acebb383b4c55e3e.jpg" />
+<Role id="36995" filter="actor=36995" tag="Harry Melling" tagKey="5d7768278718ba001e311e4d" role="Dudley Dursley" thumb="https://metadata-static.plex.tv/7/people/78c4832213664699188dd2fbc12c08a8.jpg" />
+<Role id="36996" filter="actor=36996" tag="Bonnie Wright" tagKey="5d7768278718ba001e311e46" role="Ginny Weasley" thumb="https://metadata-static.plex.tv/9/people/9a41958b234df5ec21a5db45990ba216.jpg" />
+<Role id="36997" filter="actor=36997" tag="James Phelps" tagKey="5d7768278718ba001e311e49" role="Fred Weasley" thumb="https://metadata-static.plex.tv/3/people/300f6534a2043a6e9f1ff916551a2189.jpg" />
+<Role id="36998" filter="actor=36998" tag="Oliver Phelps" tagKey="5d7768278718ba001e311e4a" role="George Weasley" thumb="https://metadata-static.plex.tv/8/people/8cab6dd75de83992d3b07d4b4d22a948.jpg" />
+<Role id="36999" filter="actor=36999" tag="Chris Rankin" tagKey="5d7768278718ba001e311e54" role="Percy Weasley" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e54.jpg" />
+<Role id="37000" filter="actor=37000" tag="Toby Jones" tagKey="5d776826151a60001f24aa54" role="Dobby (voice)" thumb="https://metadata-static.plex.tv/b/people/b233d74248a066e3f3b08c88a1206570.jpg" />
+<Role id="37001" filter="actor=37001" tag="Josh Herdman" tagKey="5d7768278718ba001e311e50" role="Gregory Goyle" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e50.jpg" />
+<Role id="37002" filter="actor=37002" tag="Jamie Waylett" tagKey="5d7768278718ba001e311e4f" role="Vincent Crabbe" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e4f.jpg" />
+<Role id="37003" filter="actor=37003" tag="Christian Coulson" tagKey="5d7768278718ba001e311e58" role="Tom Riddle" thumb="https://metadata-static.plex.tv/e/people/e774d99368b5b9037ccbc880ecaca12e.jpg" />
+<Role id="37004" filter="actor=37004" tag="Matthew Lewis" tagKey="5d7768278718ba001e311e47" role="Neville Longbottom" thumb="https://metadata-static.plex.tv/2/people/29268374c44764890a3b5d1ca121b548.jpg" />
+<Role id="37005" filter="actor=37005" tag="Alfred Enoch" tagKey="5d7768278718ba001e311e51" role="Dean Thomas" thumb="https://metadata-static.plex.tv/1/people/156cd4435410431f944660d54612195f.jpg" />
+<Role id="37006" filter="actor=37006" tag="Devon Murray" tagKey="5d7768278718ba001e311e52" role="Seamus Finnigan" thumb="https://metadata-static.plex.tv/e/people/e1eb44de478d3a37dcb83edd65b02d88.jpg" />
+<Role id="37007" filter="actor=37007" tag="Luke Youngblood" tagKey="5d7768278718ba001e311e5a" role="Lee Jordan" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e5a.jpg" />
+<Role id="37008" filter="actor=37008" tag="Hugh Mitchell" tagKey="5d7768273c3c2a001fbcb2d8" role="Colin Creevey" thumb="https://metadata-static.plex.tv/people/5d7768273c3c2a001fbcb2d8.jpg" />
+<Role id="37009" filter="actor=37009" tag="Edward Randell" tagKey="5d7768278718ba001e311e59" role="Justin Finch-Fletchley" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e59.jpg" />
+<Role id="37010" filter="actor=37010" tag="Veronica Clifford" tagKey="5d7768278718ba001e311e67" role="Mrs Mason" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e67.jpg" />
+<Role id="37011" filter="actor=37011" tag="Jim Norton" tagKey="5d7768262ec6b5001f6ba221" role="Mr Mason" thumb="https://metadata-static.plex.tv/e/people/e937e334fcf1e55ecfdc3da86533914d.jpg" />
+<Role id="37012" filter="actor=37012" tag="Tom Knight" tagKey="5d7768278718ba001e311e69" role="Mr Granger" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e69.jpg" />
+<Role id="37013" filter="actor=37013" tag="Heather Bleasdale" tagKey="5d7768278718ba001e311e68" role="Mrs Granger" thumb="https://metadata-static.plex.tv/d/people/d1bbe10b0d97db5e0b808867fa14769b.jpg" />
+<Role id="37014" filter="actor=37014" tag="Ben Borowiecki" tagKey="5d7768278718ba001e311e6a" role="Angus (Diagon Boy)" />
+<Role id="37015" filter="actor=37015" tag="Isabella Columbus" tagKey="600eed293bf0b5002c0073da" role="Girl in Bookstore" thumb="https://metadata-static.plex.tv/7/people/76294f40c05e459d7b1edbf265dcb789.jpg" />
+<Role id="37016" filter="actor=37016" tag="Edward Tudor-Pole" tagKey="5d7768367e9a3c0020c6cf4b" role="Mr Borgin" thumb="https://metadata-static.plex.tv/2/people/2da987e6345580012e2305e0ce290914.jpg" />
+<Role id="37017" filter="actor=37017" tag="Gemma Padley" tagKey="5d7768278718ba001e311e60" role="Penelope Clearwater" />
+<Role id="37018" filter="actor=37018" tag="Jenny Tarren" tagKey="6323f0b87ced2ab196aba01d" role="Aged Witch" />
+<Role id="37019" filter="actor=37019" tag="Peter O&#39;Farrell" tagKey="5d7768278718ba001e311e6d" role="Short Man - Daily Prophet" thumb="https://metadata-static.plex.tv/7/people/7c6f38441c6b82dd9047bc4072ee55fb.jpg" />
+<Role id="37020" filter="actor=37020" tag="Eleanor Columbus" tagKey="5d7768278718ba001e311e5b" role="Susan Bones" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e5b.jpg" />
+<Role id="37021" filter="actor=37021" tag="Harry Taylor" tagKey="5d7768243c3c2a001fbca934" role="Station Guard" thumb="https://metadata-static.plex.tv/a/people/a5cf3f1074c3e44cfe23518a69a65069.jpg" />
+<Role id="37022" filter="actor=37022" tag="Rochelle Douglas" tagKey="5d7768278718ba001e311e5e" role="Alicia Spinnet" />
+<Role id="37023" filter="actor=37023" tag="Emily Dale" tagKey="5d7768278718ba001e311e5d" role="Katie Bell" />
+<Role id="37024" filter="actor=37024" tag="Danielle Tabor" tagKey="63248f2689abebe5ccae8c46" role="Angelina Johnson" thumb="https://metadata-static.plex.tv/0/people/0f1013d80eb2c77d46bad011e6d156f1.jpg" />
+<Role id="37025" filter="actor=37025" tag="Jamie Yeates" tagKey="5d7768278718ba001e311e62" role="Marcus Flint" />
+<Role id="37026" filter="actor=37026" tag="Violet Columbus" tagKey="5d7768278718ba001e311e6e" role="Girl with Flowers" thumb="https://metadata-static.plex.tv/b/people/bc6d93aff4df1bd12dcd739c02b1aafc.jpg" />
+<Role id="37027" filter="actor=37027" tag="Peter Taylor" tagKey="602c25cd40d0b9002dff729a" role="Man - Moving Picture" />
+<Role id="37028" filter="actor=37028" tag="Scot Fearn" tagKey="5d77682785719b001f3a0fb2" role="Adrian Pucey" thumb="https://metadata-static.plex.tv/people/5d77682785719b001f3a0fb2.jpg" />
+<Role id="37029" filter="actor=37029" tag="David Holmes" tagKey="6323e499ab5cfaed4d878ebd" role="Slyth Beater No 1" />
+<Role id="37030" filter="actor=37030" tag="David Massam" tagKey="600eed293bf0b5002c0073dc" role="Slyth Beater No 2" />
+<Role id="37031" filter="actor=37031" tag="Tony Christian" tagKey="6009b749d4fe25002c52c74b" role="Slyth Beater No 3" thumb="https://metadata-static.plex.tv/a/people/af7e4de5e6119d5e81a0fa2375a384f2.jpg" />
+<Role id="37032" filter="actor=37032" tag="David Churchyard" tagKey="63a1c5df21d68c921ea36e44" role="Slyth Keeper" />
+<Role id="37033" filter="actor=37033" tag="Sally Mortemore" tagKey="6323ce7055d42bebe82142fb" role="Irma Pince" thumb="https://metadata-static.plex.tv/3/people/35683654815dd9398784babd9a8500cd.jpg" />
+<Role id="37034" filter="actor=37034" tag="Louis Doyle" tagKey="5d7768278718ba001e311e5c" role="Ernie MacMillan" />
+<Role id="37035" filter="actor=37035" tag="Charlotte Skeoch" tagKey="5d7768278718ba001e311e63" role="Hannah Hufflepuff" thumb="https://metadata-static.plex.tv/5/people/5af27a112610eb9fe62562184eb362a2.jpg" />
+<Role id="37036" filter="actor=37036" tag="Brendan Columbus" tagKey="600eed293bf0b5002c0073dd" role="Boy in Study Hall 1" thumb="https://metadata-static.plex.tv/5/people/589dbe39c262517e4f0f4cc44714a7df.jpg" />
+<Role id="37037" filter="actor=37037" tag="Robert Ayres" tagKey="600eed293bf0b5002c0073de" role="Boy in Study Hall 2" />
+<Role id="37038" filter="actor=37038" tag="Alfred Burke" tagKey="5d7768278718ba001e311e6c" role="Armando Dippet" thumb="https://metadata-static.plex.tv/people/5d7768278718ba001e311e6c.jpg" />
+<Role id="37039" filter="actor=37039" tag="Leslie Phillips" tagKey="5d776827880197001ec90a5e" role="The Sorting Hat (voice)" thumb="https://metadata-static.plex.tv/d/people/d56148c701976ffda17b355ea751225b.jpg" />
+<Role id="37040" filter="actor=37040" tag="Helen Stuart" tagKey="5d7768278718ba001e311e64" role="Millicent Bulstrode" />
+<Role id="37041" filter="actor=37041" tag="Daisy Bates" tagKey="5d776e80fb0d55001f5c3aea" role="Brunette Lady - Moving Picture" thumb="https://metadata-static.plex.tv/9/people/9d30bbb29b16462e3b73a49d03bcc741.jpg" />
+<Role id="37042" filter="actor=37042" tag="David Tysall" tagKey="5d776a2b47dd6e001f6cf5f2" role="Count - Moving Picture" />
+<Role id="37043" filter="actor=37043" tag="Martin Bayfield" tagKey="5d7768278718ba001e311e5f" role="Young Hagrid" />
+<Role id="37044" filter="actor=37044" tag="Julian Glover" tagKey="5d7768267e9a3c0020c6aa9e" role="Aragog (voice)" thumb="https://metadata-static.plex.tv/people/5d7768267e9a3c0020c6aa9e.jpg" />
+<Role id="37045" filter="actor=37045" tag="Les Bubb" tagKey="5d77682d151a60001f24c2c1" role="Reader" thumb="https://metadata-static.plex.tv/people/5d77682d151a60001f24c2c1.jpg" />
+<Chapter id="4" filter="thumb=4" index="1" startTimeOffset="0" endTimeOffset="180972" thumb="/library/media/1965/chapterImages/1" />
+<Chapter id="4" filter="thumb=4" index="2" startTimeOffset="180972" endTimeOffset="475266" thumb="/library/media/1965/chapterImages/2" />
+<Chapter id="4" filter="thumb=4" index="3" startTimeOffset="475266" endTimeOffset="640765" thumb="/library/media/1965/chapterImages/3" />
+<Chapter id="4" filter="thumb=4" index="4" startTimeOffset="640765" endTimeOffset="846887" thumb="/library/media/1965/chapterImages/4" />
+<Chapter id="4" filter="thumb=4" index="5" startTimeOffset="846887" endTimeOffset="1077701" thumb="/library/media/1965/chapterImages/5" />
+<Chapter id="4" filter="thumb=4" index="6" startTimeOffset="1077701" endTimeOffset="1335792" thumb="/library/media/1965/chapterImages/6" />
+<Chapter id="4" filter="thumb=4" index="7" startTimeOffset="1335792" endTimeOffset="1549589" thumb="/library/media/1965/chapterImages/7" />
+<Chapter id="4" filter="thumb=4" index="8" startTimeOffset="1549589" endTimeOffset="1730019" thumb="/library/media/1965/chapterImages/8" />
+<Chapter id="4" filter="thumb=4" index="9" startTimeOffset="1730019" endTimeOffset="1867949" thumb="/library/media/1965/chapterImages/9" />
+<Chapter id="4" filter="thumb=4" index="10" startTimeOffset="1867949" endTimeOffset="2114112" thumb="/library/media/1965/chapterImages/10" />
+<Chapter id="4" filter="thumb=4" index="11" startTimeOffset="2114112" endTimeOffset="2280361" thumb="/library/media/1965/chapterImages/11" />
+<Chapter id="4" filter="thumb=4" index="12" startTimeOffset="2280361" endTimeOffset="2567648" thumb="/library/media/1965/chapterImages/12" />
+<Chapter id="4" filter="thumb=4" index="13" startTimeOffset="2567648" endTimeOffset="2896101" thumb="/library/media/1965/chapterImages/13" />
+<Chapter id="4" filter="thumb=4" index="14" startTimeOffset="2896101" endTimeOffset="3136091" thumb="/library/media/1965/chapterImages/14" />
+<Chapter id="4" filter="thumb=4" index="15" startTimeOffset="3136091" endTimeOffset="3476890" thumb="/library/media/1965/chapterImages/15" />
+<Chapter id="4" filter="thumb=4" index="16" startTimeOffset="3476890" endTimeOffset="3793790" thumb="/library/media/1965/chapterImages/16" />
+<Chapter id="4" filter="thumb=4" index="17" startTimeOffset="3793790" endTimeOffset="4070483" thumb="/library/media/1965/chapterImages/17" />
+<Chapter id="4" filter="thumb=4" index="18" startTimeOffset="4070483" endTimeOffset="4316061" thumb="/library/media/1965/chapterImages/18" />
+<Chapter id="4" filter="thumb=4" index="19" startTimeOffset="4316061" endTimeOffset="4642346" thumb="/library/media/1965/chapterImages/19" />
+<Chapter id="4" filter="thumb=4" index="20" startTimeOffset="4642346" endTimeOffset="4893805" thumb="/library/media/1965/chapterImages/20" />
+<Chapter id="4" filter="thumb=4" index="21" startTimeOffset="4893805" endTimeOffset="5139634" thumb="/library/media/1965/chapterImages/21" />
+<Chapter id="4" filter="thumb=4" index="22" startTimeOffset="5139634" endTimeOffset="5382210" thumb="/library/media/1965/chapterImages/22" />
+<Chapter id="4" filter="thumb=4" index="23" startTimeOffset="5382210" endTimeOffset="5610313" thumb="/library/media/1965/chapterImages/23" />
+<Chapter id="4" filter="thumb=4" index="24" startTimeOffset="5610313" endTimeOffset="5862565" thumb="/library/media/1965/chapterImages/24" />
+<Chapter id="4" filter="thumb=4" index="25" startTimeOffset="5862565" endTimeOffset="6168829" thumb="/library/media/1965/chapterImages/25" />
+<Chapter id="4" filter="thumb=4" index="26" startTimeOffset="6168829" endTimeOffset="6421289" thumb="/library/media/1965/chapterImages/26" />
+<Chapter id="4" filter="thumb=4" index="27" startTimeOffset="6421289" endTimeOffset="6667994" thumb="/library/media/1965/chapterImages/27" />
+<Chapter id="4" filter="thumb=4" index="28" startTimeOffset="6667994" endTimeOffset="6926044" thumb="/library/media/1965/chapterImages/28" />
+<Chapter id="4" filter="thumb=4" index="29" startTimeOffset="6926044" endTimeOffset="7253162" thumb="/library/media/1965/chapterImages/29" />
+<Chapter id="4" filter="thumb=4" index="30" startTimeOffset="7253162" endTimeOffset="7449442" thumb="/library/media/1965/chapterImages/30" />
+<Chapter id="4" filter="thumb=4" index="31" startTimeOffset="7449442" endTimeOffset="7772055" thumb="/library/media/1965/chapterImages/31" />
+<Chapter id="4" filter="thumb=4" index="32" startTimeOffset="7772055" endTimeOffset="8072397" thumb="/library/media/1965/chapterImages/32" />
+<Chapter id="4" filter="thumb=4" index="33" startTimeOffset="8072397" endTimeOffset="8285902" thumb="/library/media/1965/chapterImages/33" />
+<Chapter id="4" filter="thumb=4" index="34" startTimeOffset="8285902" endTimeOffset="8480180" thumb="/library/media/1965/chapterImages/34" />
+<Chapter id="4" filter="thumb=4" index="35" startTimeOffset="8480180" endTimeOffset="8795411" thumb="/library/media/1965/chapterImages/35" />
+<Chapter id="4" filter="thumb=4" index="36" startTimeOffset="8795411" endTimeOffset="9102718" thumb="/library/media/1965/chapterImages/36" />
+<Chapter id="4" filter="thumb=4" index="37" startTimeOffset="9102718" endTimeOffset="9656190" thumb="/library/media/1965/chapterImages/37" />
+<Review id="802" filter="art=802" tag="Jeff Strickler" text="Harry Potter and the Chamber of Secrets works the kind of magic that Hollywood rarely displays: It&#39;s a sequel that&#39;s better than the original." image="rottentomatoes://image.review.fresh" link="http://www.startribune.com/lifestyle/11467356.html" source="Minneapolis Star Tribune" />
+<Review id="165" filter="art=165" tag="Nell Minow" text="Action- and creature-packed Potter sequel." image="rottentomatoes://image.review.fresh" link="http://www.commonsensemedia.org/movie-reviews/harry-potter-and-chamber-secrets " source="Common Sense Media" />
+<Review id="318" filter="art=318" tag="Kimberley Jones" text="An effort that is full of gosh-wow moments." image="rottentomatoes://image.review.fresh" link="http://www.austinchronicle.com/gyrobase/Calendar/Film?Film=oid%3a140212" source="Austin Chronicle" />
+<Review id="88" filter="art=88" tag="Sara Michelle Fetters" text="Blood is splattered on walls, pre-teen students are turned to stone, a Poltergeist-ian tree tries to smash our heroes, spiders rampage across the Dark Forest and a giant snake cruises menacingly through dank catacombs." image="rottentomatoes://image.review.fresh" link="http://www.moviefreak.com/reviews/h/harrypotter2_1.htm" source="MovieFreak.com" />
+<Review id="10728" filter="art=10728" tag="Sam Adams" text="Columbus&#39; pacing is still murderously slow, his ideas as pedestrian as the worst TV." image="rottentomatoes://image.review.rotten" link="http://citypaper.net/articles/2002-11-14/movshts.shtml" source="Philadelphia City Paper" />
+<Review id="159" filter="art=159" tag="Joe Morgenstern" text="This new Harry Potter has its flaws, but it&#39;s better, as well as darker, than the first." image="rottentomatoes://image.review.fresh" link="http://online.wsj.com/news/articles/SB1037313235288318468" source="Wall Street Journal" />
+<Review id="11807" filter="art=11807" tag="Michael Agger" text="Two down, presumably five to go, and already the franchise is entering dangerous territory: if you aren&#39;t one of the many who know their Harry Potter chapter and verse, prepare for a nap." image="rottentomatoes://image.review.rotten" link="http://www.newyorker.com/arts/reviews/film/harry_potter_and_the_chamber_of_secrets_columbus" source="New Yorker" />
+<Review id="317" filter="art=317" tag="Jack Mathews" text="Radcliffe, 3 inches taller and an octave lower than last year, is growing comfortably into his character, as is Watson, the fetching and confident Hermione." image="rottentomatoes://image.review.fresh" link="http://www.nydailynews.com/archives/nydn-features/wiz-casts-deeper-spell-hogwarts-gang-vivid-adventures-article-1.511391" source="New York Daily News" />
+<Review id="543" filter="art=543" tag="Keith Phipps" text="It doesn&#39;t help that Chamber is pretty much all business from the opening shot, trading in Stone&#39;s sometimes-clunky exposition for full-steam-ahead action." image="rottentomatoes://image.review.rotten" link="http://www.avclub.com/review/harry-potter-and-the-chamber-of-secrets-5837" source="AV Club" />
+<Review id="154" filter="art=154" tag="J. R. Jones" text="Like many children I&#39;ve met, director Chris Columbus seems never to have heard the word no." image="rottentomatoes://image.review.rotten" link="http://www.chicagoreader.com/chicago/harry-potter-and-the-chamber-of-secrets/Film?oid=9217976" source="Chicago Reader" />
+<Review id="156" filter="art=156" tag="David Ansen" text="Before it degenerates into Indiana Potter and the Chamber of Doom, the movie holds promise." image="rottentomatoes://image.review.rotten" link="http://www.newsweek.com/mild-about-harry-142679" source="Newsweek" />
+<Review id="163" filter="art=163" tag="Peter Rainer" text="Represents a lost opportunity to give children, not to mention adults, a movie experience that would widen their eyes as the justly beloved Rowling books did." image="rottentomatoes://image.review.rotten" source="New York Magazine/Vulture" />
+<Review id="79" filter="art=79" tag="Rex Reed" text="In all fairness, I must report that the children of varying ages in my audience never coughed, fidgeted or romped up and down the aisles for bathroom breaks." image="rottentomatoes://image.review.fresh" link="http://observer.com/2002/11/kids-will-adore-new-harry-potter/" source="Observer" />
+<Review id="164" filter="art=164" tag="Desson Thomson" text="Most viewers, especially the younger ones, will reap its joys." image="rottentomatoes://image.review.fresh" link="http://www.washingtonpost.com/wp-dyn/content/article/2002/11/15/AR2005040200538.html" source="Washington Post" />
+<Review id="85" filter="art=85" tag="Jay Boyar" text="The whole Harry Potter thing may not be as fresh for moviegoers as it was last year, but thankfully Chamber of Secrets is well-crafted." image="rottentomatoes://image.review.fresh" link="http://articles.orlandosentinel.com/2002-11-15/entertainment/0211140412_1_harry-potter-sorcerer-stone" source="Orlando Sentinel" />
+<Review id="962" filter="art=962" tag="Claudia Puig" text="Just as there is more magic conjured up in Chamber of Secrets the book, Chamber of Secrets the movie weaves a more powerful spell over its audience." image="rottentomatoes://image.review.fresh" link="http://www.usatoday.com/life/movies/news/2002-11-14-potter-cov_x.htm" source="USA Today" />
+<Review id="82" filter="art=82" tag="Moira MacDonald" text="No sequelitis here, kids (and grown-ups) -- this franchise is alive and well." image="rottentomatoes://image.review.fresh" link="http://community.seattletimes.nwsource.com/archive/?date=20021115&amp;slug=harry15" source="Seattle Times" />
+<Review id="84" filter="art=84" tag="Peter Travers" text="Once again, director Chris Columbus takes a hat-in-hand approach to Rowling that stifles creativity and allows the film to drag on for nearly three hours." image="rottentomatoes://image.review.rotten" link="http://www.rollingstone.com/movies/reviews/harry-potter-and-the-chamber-of-secrets-20021115" source="Rolling Stone" />
+<Review id="313" filter="art=313" tag="Stephen Hunter" text="Big, dull and empty." image="rottentomatoes://image.review.rotten" link="http://www.washingtonpost.com/gog/movies/harry-potter-and-the-chamber-of-secrets,1210375.html" source="Washington Post" />
+<Review id="87" filter="art=87" tag="Mick LaSalle" text="Just as often the film is as monotonous and despair-inducing as three hours on an airplane with nothing to read but the in-flight magazine." image="rottentomatoes://image.review.rotten" link="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/04/11/DD121603.DTL" source="San Francisco Chronicle" />
+</Video>
+</Hub>
+<Hub hubKey="/library/metadata/1002" key="/library/sections/1/all?actor=36975&amp;id!=1044" title="More with Daniel Radcliffe" type="movie" hubIdentifier="movie.same.actor.0" context="hub.movie.same.actor" size="1" more="1" style="shelf">
+<Video ratingKey="1002" key="/library/metadata/1002" guid="plex://movie/5d7768278718ba001e311d57" studio="Warner Bros. Pictures" type="movie" title="Harry Potter and the Chamber of Secrets" contentRating="PG" summary="Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione&#8217;s magical abilities and courage." rating="8.2" audienceRating="8.0" year="2002" tagline="Hogwarts is back in session." thumb="/library/metadata/1002/thumb/1685009930" art="/library/metadata/1002/art/1685009930" duration="9656199" originallyAvailableAt="2002-11-13" addedAt="1564262442" updatedAt="1685009930" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="1965" duration="9656199" bitrate="20705" width="1920" height="1080" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="vc1" videoResolution="1080" container="mkv" videoFrameRate="24p" videoProfile="advanced">
+<Part id="1965" key="/library/parts/1965/1564262442/file.mkv" duration="9656199" file="/volume1/Plex/Library/Media/Movies/Harry Potter/Harry Potter and the Chamber of Secrets (2002).mkv" size="24997547441" container="mkv" deepAnalysisVersion="6" requiredBandwidths="27888,27334,26518,25928,25354,24821,22561,22515" videoProfile="advanced" />
+</Media>
+<Genre tag="Adventure" />
+<Genre tag="Fantasy" />
+<Director tag="Chris Columbus" />
+<Writer tag="J.K. Rowling" />
+<Writer tag="Steve Kloves" />
+<Country tag="United Kingdom" />
+<Country tag="United States of America" />
+<Role tag="Daniel Radcliffe" />
+<Role tag="Rupert Grint" />
+<Role tag="Emma Watson" />
+</Video>
+</Hub>
+<Hub hubKey="/library/metadata/1002" key="/library/sections/1/all?actor=36976&amp;id!=1044" title="More with Rupert Grint" type="movie" hubIdentifier="movie.same.actor.1" context="hub.movie.same.actor" size="1" more="1" style="shelf">
+<Video ratingKey="1002" key="/library/metadata/1002" guid="plex://movie/5d7768278718ba001e311d57" studio="Warner Bros. Pictures" type="movie" title="Harry Potter and the Chamber of Secrets" contentRating="PG" summary="Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione&#8217;s magical abilities and courage." rating="8.2" audienceRating="8.0" year="2002" tagline="Hogwarts is back in session." thumb="/library/metadata/1002/thumb/1685009930" art="/library/metadata/1002/art/1685009930" duration="9656199" originallyAvailableAt="2002-11-13" addedAt="1564262442" updatedAt="1685009930" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="1965" duration="9656199" bitrate="20705" width="1920" height="1080" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="vc1" videoResolution="1080" container="mkv" videoFrameRate="24p" videoProfile="advanced">
+<Part id="1965" key="/library/parts/1965/1564262442/file.mkv" duration="9656199" file="/volume1/Plex/Library/Media/Movies/Harry Potter/Harry Potter and the Chamber of Secrets (2002).mkv" size="24997547441" container="mkv" deepAnalysisVersion="6" requiredBandwidths="27888,27334,26518,25928,25354,24821,22561,22515" videoProfile="advanced" />
+</Media>
+<Genre tag="Adventure" />
+<Genre tag="Fantasy" />
+<Director tag="Chris Columbus" />
+<Writer tag="J.K. Rowling" />
+<Writer tag="Steve Kloves" />
+<Country tag="United Kingdom" />
+<Country tag="United States of America" />
+<Role tag="Daniel Radcliffe" />
+<Role tag="Rupert Grint" />
+<Role tag="Emma Watson" />
+</Video>
+</Hub>
+</Related>
+</Video>
+</MediaContainer>
