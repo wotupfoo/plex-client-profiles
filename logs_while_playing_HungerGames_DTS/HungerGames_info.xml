@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1" allowSync="1" identifier="com.plexapp.plugins.library" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="6db2de2d-3fcc-44d2-a8c2-136822f3307b" mediaTagPrefix="/system/bundle/media/flags/" mediaTagVersion="1667296136">
+<Video ratingKey="1045" key="/library/metadata/1045" guid="plex://movie/5d7768b051dd69001fe0f92c" studio="Lionsgate" type="movie" title="The Hunger Games" titleSort="Hunger Games" librarySectionTitle="Movies" librarySectionID="1" librarySectionKey="/library/sections/1" contentRating="PG-13" summary="Katniss Everdeen voluntarily takes her younger sister&#39;s place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death." rating="8.4" audienceRating="8.1" viewOffset="6404230" lastViewedAt="1693845229" year="2012" tagline="May The Odds Be Ever In Your Favor." thumb="/library/metadata/1045/thumb/1693475341" art="/library/metadata/1045/art/1693475341" duration="8553408" originallyAvailableAt="2012-03-21" addedAt="1587945484" updatedAt="1693475341" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="2050" duration="8553408" bitrate="41194" width="1920" height="1080" aspectRatio="1.78" audioChannels="8" audioCodec="dca-ma" videoCodec="h264" videoResolution="1080" container="mkv" videoFrameRate="24p" audioProfile="ma" videoProfile="high">
+<Part accessible="1" exists="1" id="2050" key="/library/parts/2050/1587945484/file.mkv" duration="8553408" file="/volume1/Plex/Library/Media/Movies/Hunger Games/The Hunger Games (2012).mkv" size="44049489179" audioProfile="ma" container="mkv" deepAnalysisVersion="6" requiredBandwidths="45129,44827,44189,43810,43664,43579,43269,43255" videoProfile="high">
+<Stream id="4735" streamType="1" codec="h264" index="0" bitrate="33777" language="English" languageTag="en" languageCode="eng" bitDepth="8" chromaLocation="left" chromaSubsampling="4:2:0" codedHeight="1088" codedWidth="1920" frameRate="23.976" hasScalingMatrix="0" height="1080" level="41" profile="high" refFrames="4" requiredBandwidths="36516,36480,36424,36344,36299,36253,35987,35980" scanType="progressive" width="1920" displayTitle="1080p (H.264)" extendedDisplayTitle="1080p (H.264)">
+</Stream>
+<Stream id="4736" streamType="2" selected="1" default="1" codec="dca" index="1" channels="8" bitrate="4564" language="English" languageTag="en" languageCode="eng" audioChannelLayout="7.1" bitDepth="24" profile="ma" requiredBandwidths="6104,5809,5084,4927,4771,4618,4563,4563" samplingRate="48000" title="Surround 7.1" displayTitle="English (DTS-HD MA 7.1)" extendedDisplayTitle="Surround 7.1 (English DTS-HD MA)">
+</Stream>
+<Stream id="4737" streamType="2" codec="dca" index="2" channels="6" bitrate="1509" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" bitDepth="24" profile="dts" requiredBandwidths="1509,1509,1509,1509,1509,1509,1509,1509" samplingRate="48000" title="Surround 5.1" displayTitle="English (DTS 5.1)" extendedDisplayTitle="Surround 5.1 (English DTS)">
+</Stream>
+<Stream id="4738" streamType="2" codec="ac3" index="3" channels="2" bitrate="640" language="English" languageTag="en" languageCode="eng" audioChannelLayout="stereo" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Stereo" displayTitle="English (AC3 Stereo)" extendedDisplayTitle="Stereo (English AC3)">
+</Stream>
+<Stream id="4739" streamType="2" codec="ac3" index="4" channels="6" bitrate="640" language="Spanish" languageTag="es" languageCode="spa" audioChannelLayout="5.1(side)" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Surround 5.1" displayTitle="Spanish (AC3 5.1)" extendedDisplayTitle="Surround 5.1 (Spanish AC3)">
+</Stream>
+<Stream id="4740" streamType="3" codec="pgs" index="5" bitrate="21" language="English" languageTag="en" languageCode="eng" requiredBandwidths="73,73,73,73,73,73,73,73" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4741" streamType="3" codec="pgs" index="6" bitrate="24" language="English" languageTag="en" languageCode="eng" requiredBandwidths="75,75,75,75,75,75,75,75" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4742" streamType="3" codec="pgs" index="7" bitrate="19" language="Spanish" languageTag="es" languageCode="spa" requiredBandwidths="85,85,85,85,85,85,85,85" displayTitle="Spanish (PGS)" extendedDisplayTitle="Spanish (PGS)">
+</Stream>
+<Stream id="4743" streamType="3" codec="pgs" index="8" bitrate="0" language="Spanish" languageTag="es" languageCode="spa" requiredBandwidths="85,85,85,85,85,85,85,85" displayTitle="Spanish (PGS)" extendedDisplayTitle="Spanish (PGS)">
+</Stream>
+</Part>
+</Media>
+<Genre id="435" filter="genre=435" tag="Action" />
+<Genre id="323" filter="genre=323" tag="Adventure" />
+<Genre id="437" filter="genre=437" tag="Science Fiction" />
+<Genre id="1088" filter="genre=1088" tag="Fantasy" />
+<Genre id="436" filter="genre=436" tag="Thriller" />
+<Director id="38673" filter="director=38673" tag="Gary Ross" />
+<Writer id="56167" filter="writer=56167" tag="Billy Ray" />
+<Writer id="38674" filter="writer=38674" tag="Gary Ross" />
+<Writer id="56168" filter="writer=56168" tag="Suzanne Collins" />
+<Producer id="56206" filter="producer=56206" tag="Jon Kilik" />
+<Producer id="41322" filter="producer=41322" tag="Nina Jacobson" />
+<Country id="8" filter="country=8" tag="United States of America" />
+<Guid id="imdb://tt1392170" />
+<Guid id="tmdb://70160" />
+<Guid id="tvdb://1211" />
+<Rating image="imdb://image.rating" value="7.2" type="audience" />
+<Rating image="rottentomatoes://image.rating.ripe" value="8.4" type="critic" />
+<Rating image="rottentomatoes://image.rating.upright" value="8.1" type="audience" />
+<Rating image="themoviedb://image.rating" value="7.2" type="audience" />
+<Role id="56169" filter="actor=56169" tag="Jennifer Lawrence" tagKey="5d7768386f4521001ea9cca1" role="Katniss Everdeen" thumb="https://metadata-static.plex.tv/3/people/336f740ad35ef0d48757e806cf866f26.jpg" />
+<Role id="56170" filter="actor=56170" tag="Josh Hutcherson" tagKey="5d776829151a60001f24b105" role="Peeta Mellark" thumb="https://metadata-static.plex.tv/f/people/fd2ed600bcdd3c834ae1fce4782f7894.jpg" />
+<Role id="56171" filter="actor=56171" tag="Liam Hemsworth" tagKey="5d77683b4de0ee001fcccbde" role="Gale Hawthorne" thumb="https://metadata-static.plex.tv/3/people/38f83c22711d995a4b60d16df24a973c.jpg" />
+<Role id="41601" filter="actor=41601" tag="Woody Harrelson" tagKey="5d776825880197001ec90512" role="Haymitch Abernathy" thumb="https://metadata-static.plex.tv/d/people/d69e86be12eeccc17122e5aff1fb4f18.jpg" />
+<Role id="38929" filter="actor=38929" tag="Elizabeth Banks" tagKey="5d7768274de0ee001fcc894f" role="Effie Trinket" thumb="https://metadata-static.plex.tv/a/people/a3795682617b77843bd040b56deb5b57.jpg" />
+<Role id="56172" filter="actor=56172" tag="Lenny Kravitz" tagKey="5d776833eb5d26001f1e043b" role="Cinna" thumb="https://metadata-static.plex.tv/people/5d776833eb5d26001f1e043b.jpg" />
+<Role id="40574" filter="actor=40574" tag="Stanley Tucci" tagKey="5d7768265af944001f1f668a" role="Caesar Flickerman" thumb="https://metadata-static.plex.tv/a/people/abdfe76d1a7091e631400b61ed8a4a84.jpg" />
+<Role id="46737" filter="actor=46737" tag="Donald Sutherland" tagKey="5d776826880197001ec90686" role="President Snow" thumb="https://metadata-static.plex.tv/6/people/693da87cc82cc89d8f8969f8323ea9e9.jpg" />
+<Role id="38302" filter="actor=38302" tag="Wes Bentley" tagKey="5d77682661141d001fb133d2" role="Seneca Crane" thumb="https://metadata-static.plex.tv/b/people/b32aac3dc4d72126cf77799e63589266.jpg" />
+<Role id="37000" filter="actor=37000" tag="Toby Jones" tagKey="5d776826151a60001f24aa54" role="Claudius Templesmith" thumb="https://metadata-static.plex.tv/b/people/b233d74248a066e3f3b08c88a1206570.jpg" />
+<Role id="55416" filter="actor=55416" tag="Alexander Ludwig" tagKey="5d77682b8718ba001e31280b" role="Cato" thumb="https://metadata-static.plex.tv/f/people/f05a6a6ca76702404d599d4d3e30de51.jpg" />
+<Role id="56173" filter="actor=56173" tag="Isabelle Fuhrman" tagKey="5d77683c7228e5001f1dfd3a" role="Clove" thumb="https://metadata-static.plex.tv/1/people/10da6ac5a5b09f0393f5027082660800.jpg" />
+<Role id="56174" filter="actor=56174" tag="Amandla Stenberg" tagKey="5d7768a423d5a3001f4ef6b6" role="Rue" thumb="https://metadata-static.plex.tv/1/people/124dfb12156be28c31668603d65cfbed.jpg" />
+<Role id="56175" filter="actor=56175" tag="Willow Shields" tagKey="5d7768a06f6af7001ee5912a" role="Primrose Everdeen" thumb="https://metadata-static.plex.tv/e/people/ed758e02874020021f8c1e0bce63ac68.jpg" />
+<Role id="56176" filter="actor=56176" tag="Sandra Ellis Lafferty" tagKey="5d77682585719b001f3a0522" role="Hob Vendor" thumb="https://metadata-static.plex.tv/people/5d77682585719b001f3a0522.jpg" />
+<Role id="56177" filter="actor=56177" tag="Paula Malcomson" tagKey="5d776826961905001eb91094" role="Katniss&#39; Mother" thumb="https://metadata-static.plex.tv/people/5d776826961905001eb91094.jpg" />
+<Role id="56178" filter="actor=56178" tag="Rhoda Griffis" tagKey="5d77682585719b001f3a052f" role="Registration Woman" thumb="https://metadata-static.plex.tv/3/people/3a9452751e0edd351f62312fe1f1d1f3.jpg" />
+<Role id="56179" filter="actor=56179" tag="Sandino Moya-Smith" tagKey="632477c143cc415403e76fdc" role="Propaganda Film Tribute" />
+<Role id="56180" filter="actor=56180" tag="Raiko Bowman" tagKey="5d77683d999c64001ec30fcb" role="Peeta&#39;s Mother" />
+<Role id="56181" filter="actor=56181" tag="Dwayne Boyd" tagKey="5d77684385719b001f3a6454" role="Peacekeeper #1" />
+<Role id="53931" filter="actor=53931" tag="Anthony Reynolds" tagKey="5d7768362e80df001ebde71a" role="Peacekeeper #2" thumb="https://metadata-static.plex.tv/people/5d7768362e80df001ebde71a.jpg" />
+<Role id="38952" filter="actor=38952" tag="Judd Lormand" tagKey="5d7768a73ab0e7001f506ba8" role="Peacekeeper #3" thumb="https://metadata-static.plex.tv/people/5d7768a73ab0e7001f506ba8.jpg" />
+<Role id="56182" filter="actor=56182" tag="Kimiko Gelman" tagKey="5d77684154c0f0001f304ffd" role="Venia" thumb="https://metadata-static.plex.tv/people/5d77684154c0f0001f304ffd.jpg" />
+<Role id="52518" filter="actor=52518" tag="Nelson Ascencio" tagKey="5d77687051dd69001fe0c3f2" role="Flavius" thumb="https://metadata-static.plex.tv/people/5d77687051dd69001fe0c3f2.jpg" />
+<Role id="56183" filter="actor=56183" tag="Bruce Bundy" tagKey="5d7768b051dd69001fe0f9cd" role="Octavia" thumb="https://metadata-static.plex.tv/4/people/4aa6629469cc1a69f2e979735125805d.jpg" />
+<Role id="56184" filter="actor=56184" tag="Dayo Okeniyi" tagKey="5d7768b051dd69001fe0f9ce" role="Thresh" thumb="https://metadata-static.plex.tv/7/people/7a1619541dd34a6e2b773978584071d2.jpg" />
+<Role id="56185" filter="actor=56185" tag="Leven Rambin" tagKey="5d7768b051dd69001fe0f9cf" role="Glimmer" thumb="https://metadata-static.plex.tv/2/people/295babfdeaa40b9226be6e73f2c31bb7.jpg" />
+<Role id="56186" filter="actor=56186" tag="Jack Quaid" tagKey="5d7768b051dd69001fe0f9d0" role="Marvel" thumb="https://metadata-static.plex.tv/e/people/eb4924c433330cac098da53fa1747675.jpg" />
+<Role id="56187" filter="actor=56187" tag="Latarsha Rose" tagKey="5d7768b051dd69001fe0f9d1" role="Portia" thumb="https://metadata-static.plex.tv/f/people/f1ac5f9a2a0509f14db09926f5ccb231.jpg" />
+<Role id="56188" filter="actor=56188" tag="Ian Nelson" tagKey="5d7768b051dd69001fe0f9d2" role="Tribute Boy District 3" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d2.jpg" />
+<Role id="56189" filter="actor=56189" tag="Kalia Prescott" tagKey="5d7768b051dd69001fe0f9d3" role="Tribute Girl District 3" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d3.jpg" />
+<Role id="56190" filter="actor=56190" tag="Ethan Jamieson" tagKey="5d7768b051dd69001fe0f9d4" role="Tribute Boy District 4" />
+<Role id="56191" filter="actor=56191" tag="Jacqueline Emerson" tagKey="5d7768b051dd69001fe0f9d5" role="Fox Face" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d5.jpg" />
+<Role id="56192" filter="actor=56192" tag="Mackenzie Lintz" tagKey="5d7768b051dd69001fe0f9d6" role="Tribute Girl District 8" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d6.jpg" />
+<Role id="56193" filter="actor=56193" tag="Imanol Yepez-Frias" tagKey="63248efa68360d96e65f59d6" role="Tribute Boy District 9" thumb="https://metadata-static.plex.tv/5/people/50a2c40a9080fb0c785c93d9829c2d43.jpg" />
+<Role id="56194" filter="actor=56194" tag="Annie Thurman" tagKey="5d7768b051dd69001fe0f9d8" role="Tribute Girl District 9" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d8.jpg" />
+<Role id="56195" filter="actor=56195" tag="Dakota Hood" tagKey="5d7768b051dd69001fe0f9d9" role="Tribute Girl District 10" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9d9.jpg" />
+<Role id="56196" filter="actor=56196" tag="Amber Chaney" tagKey="5d7768b051dd69001fe0f9da" role="Avox Girl" />
+<Role id="56197" filter="actor=56197" tag="Karan Kendrick" tagKey="5d7768b051dd69001fe0f9db" role="Atala" thumb="https://metadata-static.plex.tv/5/people/52ae9944303918b92493a8335b5cb631.jpg" />
+<Role id="56198" filter="actor=56198" tag="Shane Bissell" tagKey="5d7768b051dd69001fe0f9dc" role="Birthday Boy" />
+<Role id="52798" filter="actor=52798" tag="Kate Kneeland" tagKey="5d776836eb5d26001f1e0efb" role="Hovercraft Tech" thumb="https://metadata-static.plex.tv/people/5d776836eb5d26001f1e0efb.jpg" />
+<Role id="52865" filter="actor=52865" tag="Steve Coulter" tagKey="5d77682a880197001ec9164f" role="Game Center Tech #1" thumb="https://metadata-static.plex.tv/people/5d77682a880197001ec9164f.jpg" />
+<Role id="56199" filter="actor=56199" tag="Sharon Conley" tagKey="5d77683b880197001ec94a8e" role="Game Center Tech #2" thumb="https://metadata-static.plex.tv/people/5d77683b880197001ec94a8e.jpg" />
+<Role id="56200" filter="actor=56200" tag="Tim Taylor" tagKey="5d7768b051dd69001fe0f9dd" role="Game Center Tech #3" thumb="https://metadata-static.plex.tv/people/5d7768b051dd69001fe0f9dd.jpg" />
+<Role id="56201" filter="actor=56201" tag="John Ross" tagKey="62fb76ef48bbe91ae31e9296" role="Game Center Tech" thumb="https://metadata-static.plex.tv/1/people/1dbf343d2f61ec7dfa7fbafe1fe9545a.jpg" />
+<Role id="56202" filter="actor=56202" tag="Phillip Troy Linger" tagKey="5d77687554c0f0001f308c0c" role="Katniss&#39; Father" />
+<Role id="56203" filter="actor=56203" tag="Julie Ivey" tagKey="5d77682a880197001ec915cf" role="Martha (uncredited)" thumb="https://image.tmdb.org/t/p/original/zkt0Ifn63LqUk1TJloBbGLydff.jpg" />
+<Role id="56204" filter="actor=56204" tag="Mark Meekins" tagKey="60eb1720e18a10002ce5a50c" role="Resident" />
+<Role id="56205" filter="actor=56205" tag="Jeremy Marinas" tagKey="5d7768bbdecfcd001f2f142a" role="Tribute Boy District 10 (uncredited)" thumb="https://metadata-static.plex.tv/people/5d7768bbdecfcd001f2f142a.jpg" />
+<Chapter id="4" filter="thumb=4" index="1" startTimeOffset="0" endTimeOffset="605813" thumb="/library/media/2050/chapterImages/1" />
+<Chapter id="4" filter="thumb=4" index="2" startTimeOffset="605813" endTimeOffset="1079828" thumb="/library/media/2050/chapterImages/2" />
+<Chapter id="4" filter="thumb=4" index="3" startTimeOffset="1079828" endTimeOffset="1505879" thumb="/library/media/2050/chapterImages/3" />
+<Chapter id="4" filter="thumb=4" index="4" startTimeOffset="1505879" endTimeOffset="1872662" thumb="/library/media/2050/chapterImages/4" />
+<Chapter id="4" filter="thumb=4" index="5" startTimeOffset="1872662" endTimeOffset="2608564" thumb="/library/media/2050/chapterImages/5" />
+<Chapter id="4" filter="thumb=4" index="6" startTimeOffset="2608564" endTimeOffset="3038702" thumb="/library/media/2050/chapterImages/6" />
+<Chapter id="4" filter="thumb=4" index="7" startTimeOffset="3038702" endTimeOffset="3418915" thumb="/library/media/2050/chapterImages/7" />
+<Chapter id="4" filter="thumb=4" index="8" startTimeOffset="3418915" endTimeOffset="4017763" thumb="/library/media/2050/chapterImages/8" />
+<Chapter id="4" filter="thumb=4" index="9" startTimeOffset="4017763" endTimeOffset="4558971" thumb="/library/media/2050/chapterImages/9" />
+<Chapter id="4" filter="thumb=4" index="10" startTimeOffset="4558971" endTimeOffset="4926046" thumb="/library/media/2050/chapterImages/10" />
+<Chapter id="4" filter="thumb=4" index="11" startTimeOffset="4926046" endTimeOffset="5340418" thumb="/library/media/2050/chapterImages/11" />
+<Chapter id="4" filter="thumb=4" index="12" startTimeOffset="5340418" endTimeOffset="5880749" thumb="/library/media/2050/chapterImages/12" />
+<Chapter id="4" filter="thumb=4" index="13" startTimeOffset="5880749" endTimeOffset="6199193" thumb="/library/media/2050/chapterImages/13" />
+<Chapter id="4" filter="thumb=4" index="14" startTimeOffset="6199193" endTimeOffset="7076611" thumb="/library/media/2050/chapterImages/14" />
+<Chapter id="4" filter="thumb=4" index="15" startTimeOffset="7076611" endTimeOffset="7766550" thumb="/library/media/2050/chapterImages/15" />
+<Chapter id="4" filter="thumb=4" index="16" startTimeOffset="7766550" endTimeOffset="8553378" thumb="/library/media/2050/chapterImages/16" />
+<Review id="6039" filter="art=6039" tag="Scott Bowles" text="Like the select participants of its savage sport, The Hunger Games stands triumphant, if scarred and a bit wobbly from the contest." image="rottentomatoes://image.review.fresh" link="http://rssfeeds.usatoday.com/~r/UsatodaycomMovies-TopStories/~3/xNmyZw4sD10/1" source="USA Today" />
+<Review id="958" filter="art=958" tag="Amy Biancolli" text="It features a functioning creative imagination and lots of honest-to-goodness acting by its star, Jennifer Lawrence, who brings her usual toughness and emotional transparency to the archer-heroine Katniss." image="rottentomatoes://image.review.fresh" link="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/03/22/DDET1NNIUV.DTL" source="San Francisco Chronicle" />
+<Review id="163" filter="art=163" tag="Peter Rainer" text="Ross manages to keep the pacing remarkably swift, given that the games themselves don&#39;t start until halfway through the 144-minute running time." image="rottentomatoes://image.review.fresh" link="http://www.csmonitor.com/The-Culture/Movies/2012/0323/The-Hunger-Games-movie-review" source="Christian Science Monitor" />
+<Review id="88" filter="art=88" tag="Sara Michelle Fetters" text="[Ross&#39;] version of The Hunger Games, while not perfect, is probably as magnificent I ever my wildest dreams could have hoped for it to be." image="rottentomatoes://image.review.fresh" link="http://www.moviefreak.com/artman/publish/movies_hungergames.shtml" source="MovieFreak.com" />
+<Review id="429" filter="art=429" tag="Steven D. Greydanus" text="[Katniss is] perhaps the most engaging action-movie protagonist in recent years &#8230; Am I glad I saw The Hunger Games? Yes. But I&#39;m not eager to see it again." image="rottentomatoes://image.review.fresh" link="http://decentfilms.com/reviews/hungergames" source="Decent Films" />
+<Review id="12095" filter="art=12095" tag="Matt Singer" text="If you&#39;ve never read Collins&#39; novels, the odds that you&#39;ll enjoy the film are not in your favor." image="rottentomatoes://image.review.rotten" link="http://screencrush.com/hunger-games-review/" source="ScreenCrush" />
+<Review id="166" filter="art=166" tag="Marc Savlov" text="The Hunger Games is first and foremost an adventure/survival story, and director Ross keeps things moving with nary a moment of downtime." image="rottentomatoes://image.review.fresh" link="http://www.austinchronicle.com/calendar/film/2012-03-23/the-hunger-games/" source="Austin Chronicle" />
+<Review id="12096" filter="art=12096" tag="Julie and Brandy" text="[Rue&#39;s] presence gave the heart to the whole movie." image="rottentomatoes://image.review.fresh" link="https://www.autostraddle.com/julie-brandy-in-your-box-office-204-hengher-gams-139486/" source="Autostraddle" />
+<Review id="249" filter="art=249" tag="J. Hoberman" text="The Hunger Games is undeniably progressive in making its protagonist so plucky, independent, and self-actualizing a young woman." image="rottentomatoes://image.review.fresh" link="https://www.blouinartinfo.com/news/story/796899/hoberman-a-spoil-sport-at-%E2%80%9Cthe-hunger-games%E2%80%9D-one-week-later" source="ARTINFO.com" />
+<Review id="4398" filter="art=4398" tag="David Thomson" text="The film shows precious little hunger and no sense of game." image="rottentomatoes://image.review.rotten" link="http://www.newrepublic.com/article/film/102038/the-hunger-games-collins-lawrence-ross-terrible-un-american" source="The New Republic" />
+<Review id="965" filter="art=965" tag="Leonard Maltin" text="Lawrence proved her ability to carry a character&#39;s heavy burden in Winter&#39;s Bone. As Katniss Everdeen, a teenage girl who is both physically and morally strong, she has gravitas, rarely breaking into a smile, but reveals no sign of self-seriousness." image="rottentomatoes://image.review.fresh" link="http://blogs.indiewire.com/leonardmaltin/the-hunger-gamesmovie-review" source="leonardmaltin.com" />
+<Review id="153" filter="art=153" tag="David Denby" text="Even when two people are just talking calmly, Ross jerks the camera around. Why? As the sense of danger increases, he has nothing to build toward." image="rottentomatoes://image.review.rotten" link="http://www.newyorker.com/arts/critics/cinema/2012/04/02/120402crci_cinema_denby" source="New Yorker" />
+<Review id="2509" filter="art=2509" tag="Caryn James" text="Lawrence is terrific, but the film is a sleek, competent example of a big-budget, sure-fire commercial hit without much soul or style." image="rottentomatoes://image.review.fresh" link="http://blogs.indiewire.com/carynjames/the-hunger-games#" source="James on screenS" />
+<Review id="86" filter="art=86" tag="David Edelstein" text="Watching The Hunger Games, I was struck both by how slickly Ross hit his marks and how many opportunities he was missing to take the film to the next level -- to make it more shocking, lyrical, crazy, daring." image="rottentomatoes://image.review.rotten" link="http://www.vulture.com/2012/03/movie-review-the-hunger-games.html" source="New York Magazine/Vulture" />
+<Review id="961" filter="art=961" tag="Bob Mondello" text="The Hunger Games&#39; pacing is brisk, its stakes as high as stakes get, and its leading lady engaging enough that the odds - at the box office at least - will be ever in its favor." image="rottentomatoes://image.review.fresh" link="http://www.npr.org/2012/03/22/149173536/hunger-games-mortal-combat-as-appointment-tv?ft=1&amp;f=1045" source="NPR" />
+<Review id="6476" filter="art=6476" tag="Laremy Legel" text="Measured against its downright subversive subtext, you have to come away impressed by the level of achievement." image="rottentomatoes://image.review.fresh" link="http://www.film.com/movies/review-the-hunger-games" source="Film.com" />
+<Review id="959" filter="art=959" tag="Ben Sachs" text="Director Gary Ross generally avoids the elaborate exterior shots and special effects that dominate high-concept blockbusters." image="rottentomatoes://image.review.fresh" link="http://www.chicagoreader.com/chicago/the-hunger-games/Film?oid=5629400" source="Chicago Reader" />
+<Review id="960" filter="art=960" tag="Dana Stevens" text="Director Gary Ross&#39; adaptation, co-scripted by Collins herself, isn&#39;t quite as crackingly paced as the novel, but it will more than satisfy existing fans of the trilogy and likely create many new ones." image="rottentomatoes://image.review.fresh" link="http://www.slate.com/articles/arts/movies/2012/03/the_hunger_games_starring_jennifer_lawrence_as_katniss_everdeen_reviewed_.html" source="Slate" />
+<Review id="72" filter="art=72" tag="Richard Roeper" text="Well-paced, well-directed and extremely well acted entertainment." image="rottentomatoes://image.review.fresh" link="http://www.richardroeper.com/reviews/thehungergames.aspx" source="Richard Roeper.com" />
+<Review id="159" filter="art=159" tag="Joe Morgenstern" text="The first book of Suzanne Collins&#39;s prodigiously popular trilogy has been brought to the screen with a Jumbotron sensibility, a shaky camera to emphasize the action and a shakier grip on the subject&#39;s emotional core." image="rottentomatoes://image.review.rotten" link="http://online.wsj.com/article/SB10001424052702304636404577296011819867778.html?mod=WSJ_ArtsEnt_LifestyleArtEnt_2" source="Wall Street Journal" />
+<Preferences>
+<Setting id="languageOverride" label="Metadata language" summary="Language to use for item metadata such as synopsis and title." type="text" default="" value="" hidden="0" advanced="0" group="" enumValues=":Library default|ar-SA:Arabic (Saudi Arabia)|bg-BG:Bulgarian|ca-ES:Catalan|zh-CN:Chinese|zh-HK:Chinese (Hong Kong)|zh-TW:Chinese (Taiwan)|hr-HR:Croatian|cs-CZ:Czech|da-DK:Danish|nl-NL:Dutch|en-US:English|en-AU:English (Australia)|en-CA:English (Canada)|en-GB:English (UK)|et-EE:Estonian|fi-FI:Finnish|fr-FR:French|fr-CA:French (Canada)|de-DE:German|el-GR:Greek|he-IL:Hebrew|hi-IN:Hindi|hu-HU:Hungarian|id-ID:Indonesian|it-IT:Italian|ja-JP:Japanese|ko-KR:Korean|lv-LV:Latvian|lt-LT:Lithuanian|nb-NO:Norwegian Bokm&#229;l|fa-IR:Persian|pl-PL:Polish|pt-BR:Portuguese|pt-PT:Portuguese (Portugal)|ro-RO:Romanian|ru-RU:Russian|sk-SK:Slovak|es-ES:Spanish|es-MX:Spanish (Mexico)|sv-SE:Swedish|th-TH:Thai|tr-TR:Turkish|uk-UA:Ukrainian|vi-VN:Vietnamese" />
+<Setting id="useOriginalTitle" label="Use original title" summary="Use the original title for this item regardless of the library language." type="int" default="-1" value="-1" hidden="0" advanced="0" group="" enumValues="-1:Library default|0:No|1:Yes" />
+</Preferences>
+<Extras size="0">
+</Extras>
+<Related>
+<Hub hubKey="/library/metadata/1048" key="/library/metadata/1045/similar" title="Related Movies" type="movie" hubIdentifier="movie.similar" context="hub.movie.similar" size="1" more="1" style="shelf">
+<Video ratingKey="1048" key="/library/metadata/1048" guid="plex://movie/5d7769957a53e9001e6ea3b8" studio="Lionsgate" type="movie" title="The Hunger Games: Mockingjay - Part 2" titleSort="Hunger Games: Mockingjay - Part 2" librarySectionTitle="Movies" librarySectionID="1" librarySectionKey="/library/sections/1" contentRating="PG-13" summary="Katniss and a team of rebels from District 13 prepare for the final battle that will decide the fate of Panem." rating="7.0" audienceRating="6.6" year="2015" tagline="The fire will burn forever." thumb="/library/metadata/1048/thumb/1693475343" art="/library/metadata/1048/art/1693475343" duration="8217279" originallyAvailableAt="2015-11-18" addedAt="1588371557" updatedAt="1693475343" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" hasPremiumExtras="1" hasPremiumPrimaryExtra="1" ratingImage="rottentomatoes://image.rating.ripe">
+<Media id="2053" duration="8217279" bitrate="27258" width="1920" height="1080" aspectRatio="1.78" audioChannels="8" audioCodec="truehd" videoCodec="h264" videoResolution="1080" container="mkv" videoFrameRate="24p" videoProfile="high">
+<Part id="2053" key="/library/parts/2053/1588371557/file.mkv" duration="8217279" file="/volume1/Plex/Library/Media/Movies/Hunger Games/The Hunger Games - Mockingjay Part 2 (2015).mkv" size="28014751450" container="mkv" deepAnalysisVersion="6" requiredBandwidths="43099,42191,39923,36302,35443,34798,31030,27947" videoProfile="high">
+<Stream id="4761" streamType="1" codec="h264" index="0" bitrate="20938" language="English" languageTag="en" languageCode="eng" bitDepth="8" chromaLocation="left" chromaSubsampling="4:2:0" codedHeight="1088" codedWidth="1920" frameRate="23.976" hasScalingMatrix="0" height="1080" level="41" profile="high" refFrames="4" requiredBandwidths="33882,32974,30692,28832,28183,27538,23799,21671" scanType="progressive" width="1920" displayTitle="1080p (H.264)" extendedDisplayTitle="1080p (H.264)">
+</Stream>
+<Stream id="4762" streamType="2" selected="1" default="1" codec="truehd" index="1" channels="8" bitrate="4287" language="English" languageTag="en" languageCode="eng" audioChannelLayout="7.1" bitDepth="24" requiredBandwidths="6889,6652,6286,5703,5178,4663,4468,4468" samplingRate="48000" title="Surround 7.1" displayTitle="English (TRUEHD 7.1)" extendedDisplayTitle="Surround 7.1 (English TRUEHD)">
+</Stream>
+<Stream id="4763" streamType="2" codec="ac3" index="2" channels="6" bitrate="640" language="English" languageTag="en" languageCode="eng" audioChannelLayout="5.1(side)" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Surround 5.1" displayTitle="English (AC3 5.1)" extendedDisplayTitle="Surround 5.1 (English AC3)">
+</Stream>
+<Stream id="4764" streamType="2" codec="ac3" index="3" channels="2" bitrate="224" language="English" languageTag="en" languageCode="eng" audioChannelLayout="stereo" requiredBandwidths="224,224,224,224,224,224,224,224" samplingRate="48000" title="Stereo" displayTitle="English (AC3 Stereo)" extendedDisplayTitle="Stereo (English AC3)">
+</Stream>
+<Stream id="4765" streamType="2" codec="ac3" index="4" channels="2" bitrate="224" language="English" languageTag="en" languageCode="eng" audioChannelLayout="stereo" requiredBandwidths="224,224,224,224,224,224,224,224" samplingRate="48000" title="Stereo" displayTitle="English (AC3 Stereo)" extendedDisplayTitle="Stereo (English AC3)">
+</Stream>
+<Stream id="4766" streamType="2" codec="ac3" index="5" channels="6" bitrate="640" language="Spanish" languageTag="es" languageCode="spa" audioChannelLayout="5.1(side)" requiredBandwidths="640,640,640,640,640,640,640,640" samplingRate="48000" title="Surround 5.1" displayTitle="Spanish (AC3 5.1)" extendedDisplayTitle="Surround 5.1 (Spanish AC3)">
+</Stream>
+<Stream id="4767" streamType="2" codec="ac3" index="6" channels="2" bitrate="224" language="English" languageTag="en" languageCode="eng" audioChannelLayout="stereo" requiredBandwidths="224,224,224,224,224,224,224,224" samplingRate="48000" title="Stereo" displayTitle="English (AC3 Stereo)" extendedDisplayTitle="Stereo (English AC3)">
+</Stream>
+<Stream id="4768" streamType="3" codec="pgs" index="7" bitrate="26" language="English" languageTag="en" languageCode="eng" requiredBandwidths="48,48,48,48,48,48,48,48" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4769" streamType="3" codec="pgs" index="8" bitrate="29" language="English" languageTag="en" languageCode="eng" requiredBandwidths="50,50,50,50,50,50,50,50" displayTitle="English (PGS)" extendedDisplayTitle="English (PGS)">
+</Stream>
+<Stream id="4770" streamType="3" codec="pgs" index="9" bitrate="26" language="Spanish" languageTag="es" languageCode="spa" requiredBandwidths="47,47,47,47,47,47,47,47" displayTitle="Spanish (PGS)" extendedDisplayTitle="Spanish (PGS)">
+</Stream>
+<Stream id="4771" streamType="3" codec="pgs" index="10" bitrate="0" language="Spanish" languageTag="es" languageCode="spa" requiredBandwidths="66,66,66,66,66,66,66,66" displayTitle="Spanish (PGS)" extendedDisplayTitle="Spanish (PGS)">
+</Stream>
+</Part>
+</Media>
+<Genre id="435" filter="genre=435" tag="Action" />
+<Genre id="323" filter="genre=323" tag="Adventure" />
+<Genre id="437" filter="genre=437" tag="Science Fiction" />
+<Genre id="436" filter="genre=436" tag="Thriller" />
+<Director id="51691" filter="director=51691" tag="Francis Lawrence" />
+<Writer id="56239" filter="writer=56239" tag="Danny Strong" />
+<Writer id="56168" filter="writer=56168" tag="Suzanne Collins" />
+<Writer id="56240" filter="writer=56240" tag="Peter Craig" />
+<Producer id="56206" filter="producer=56206" tag="Jon Kilik" />
+<Producer id="41322" filter="producer=41322" tag="Nina Jacobson" />
+<Country id="551" filter="country=551" tag="Germany" />
+<Country id="8" filter="country=8" tag="United States of America" />
+<Guid id="imdb://tt1951266" />
+<Guid id="tmdb://131634" />
+<Guid id="tvdb://257" />
+<Rating image="imdb://image.rating" value="6.5" type="audience" />
+<Rating image="rottentomatoes://image.rating.ripe" value="7.0" type="critic" />
+<Rating image="rottentomatoes://image.rating.upright" value="6.6" type="audience" />
+<Rating image="themoviedb://image.rating" value="6.9" type="audience" />
+<Role id="56169" filter="actor=56169" tag="Jennifer Lawrence" tagKey="5d7768386f4521001ea9cca1" role="Katniss Everdeen" thumb="https://metadata-static.plex.tv/3/people/336f740ad35ef0d48757e806cf866f26.jpg" />
+<Role id="56170" filter="actor=56170" tag="Josh Hutcherson" tagKey="5d776829151a60001f24b105" role="Peeta Mellark" thumb="https://metadata-static.plex.tv/f/people/fd2ed600bcdd3c834ae1fce4782f7894.jpg" />
+<Role id="56171" filter="actor=56171" tag="Liam Hemsworth" tagKey="5d77683b4de0ee001fcccbde" role="Gale Hawthorne" thumb="https://metadata-static.plex.tv/3/people/38f83c22711d995a4b60d16df24a973c.jpg" />
+<Role id="41601" filter="actor=41601" tag="Woody Harrelson" tagKey="5d776825880197001ec90512" role="Haymitch Abernathy" thumb="https://metadata-static.plex.tv/d/people/d69e86be12eeccc17122e5aff1fb4f18.jpg" />
+<Role id="38929" filter="actor=38929" tag="Elizabeth Banks" tagKey="5d7768274de0ee001fcc894f" role="Effie Trinket" thumb="https://metadata-static.plex.tv/a/people/a3795682617b77843bd040b56deb5b57.jpg" />
+<Role id="37589" filter="actor=37589" tag="Julianne Moore" tagKey="5d7768256f4521001ea989be" role="President Alma Coin" thumb="https://metadata-static.plex.tv/6/people/6ff18839116b7c7d4eb3cb4a5d401943.jpg" />
+<Role id="38347" filter="actor=38347" tag="Philip Seymour Hoffman" tagKey="5d7768256f4521001ea989bf" role="Plutarch Heavensbee" thumb="https://metadata-static.plex.tv/e/people/e7b7914429e4051363224dae7db9e5b3.jpg" />
+<Role id="36191" filter="actor=36191" tag="Jeffrey Wright" tagKey="5d7768253c3c2a001fbca992" role="Beetee" thumb="https://metadata-static.plex.tv/b/people/b705e00eb979d6d17a9a4aefbdbcecc0.jpg" />
+<Role id="40574" filter="actor=40574" tag="Stanley Tucci" tagKey="5d7768265af944001f1f668a" role="Caesar Flickerman" thumb="https://metadata-static.plex.tv/a/people/abdfe76d1a7091e631400b61ed8a4a84.jpg" />
+<Role id="46737" filter="actor=46737" tag="Donald Sutherland" tagKey="5d776826880197001ec90686" role="President Snow" thumb="https://metadata-static.plex.tv/6/people/693da87cc82cc89d8f8969f8323ea9e9.jpg" />
+<Role id="56175" filter="actor=56175" tag="Willow Shields" tagKey="5d7768a06f6af7001ee5912a" role="Primrose Everdeen" thumb="https://metadata-static.plex.tv/e/people/ed758e02874020021f8c1e0bce63ac68.jpg" />
+<Role id="43356" filter="actor=43356" tag="Sam Claflin" tagKey="5d77682a961905001eb92006" role="Finnick Odair" thumb="https://metadata-static.plex.tv/1/people/10936aa969c2b5a551b41f4edd6e18f2.jpg" />
+<Role id="56207" filter="actor=56207" tag="Jena Malone" tagKey="5d776825103a2d001f563c06" role="Johanna Mason" thumb="https://metadata-static.plex.tv/5/people/5aec65fafe637f30ff1b4c35e018b83e.jpg" />
+<Role id="56241" filter="actor=56241" tag="Mahershala Ali" tagKey="5d77682f6f4521001ea9ad07" role="Boggs" thumb="https://metadata-static.plex.tv/e/people/e470bb6c32af59fb27b11d3ee4fb9332.jpg" />
+<Role id="53435" filter="actor=53435" tag="Natalie Dormer" tagKey="5d77682a103a2d001f565442" role="Cressida" thumb="https://metadata-static.plex.tv/f/people/f0d91f302d4e1908a69090f6c079d995.jpg" />
+<Role id="56242" filter="actor=56242" tag="Wes Chatham" tagKey="5d776835999c64001ec2f46e" role="Castor" thumb="https://metadata-static.plex.tv/1/people/1cf3b7fcc9c42589472aea36250da78e.jpg" />
+<Role id="56243" filter="actor=56243" tag="Michelle Forbes" tagKey="5d776835151a60001f24da3c" role="Lieutenant Jackson" thumb="https://metadata-static.plex.tv/9/people/937c78177a062243e0836bf77fa40615.jpg" />
+<Role id="50074" filter="actor=50074" tag="Elden Henson" tagKey="5d77682754f42c001f8c2a51" role="Pollux" thumb="https://metadata-static.plex.tv/9/people/903e72aec8a5a58aedd3adf53bc83a5a.jpg" />
+<Role id="56244" filter="actor=56244" tag="Patina Miller" tagKey="5d7769957a53e9001e6ea425" role="Commander Paylor" thumb="https://metadata-static.plex.tv/people/5d7769957a53e9001e6ea425.jpg" />
+<Role id="56245" filter="actor=56245" tag="Evan Ross" tagKey="5d77683f54c0f0001f304a38" role="Messalla" thumb="https://metadata-static.plex.tv/d/people/d5fd603680a605756fe62ed9272d97e7.jpg" />
+<Role id="56177" filter="actor=56177" tag="Paula Malcomson" tagKey="5d776826961905001eb91094" role="Mrs. Everdeen" thumb="https://metadata-static.plex.tv/people/5d776826961905001eb91094.jpg" />
+<Role id="51841" filter="actor=51841" tag="Eugenie Bondurant" tagKey="5d7768275af944001f1f6a81" role="Tigris" thumb="https://metadata-static.plex.tv/9/people/93a9f5a62e0a8dee65271be30e0766bc.jpg" />
+<Role id="56246" filter="actor=56246" tag="Sarita Choudhury" tagKey="5d77682b151a60001f24b8e9" role="Egeria" thumb="https://metadata-static.plex.tv/2/people/25dacdce56435ad20c2267063f48e744.jpg" />
+<Role id="56224" filter="actor=56224" tag="Stef Dawson" tagKey="5d77690b594b2b001e69b892" role="Annie Cresta" thumb="https://metadata-static.plex.tv/3/people/3536507a00749eaf316e3f49fa9ffdc8.jpg" />
+<Role id="56222" filter="actor=56222" tag="Meta Golding" tagKey="5d776845999c64001ec3248c" role="Enobaria" thumb="https://metadata-static.plex.tv/people/5d776845999c64001ec3248c.jpg" />
+<Role id="56247" filter="actor=56247" tag="Omid Abtahi" tagKey="5d776831103a2d001f566c89" role="Homes" thumb="https://metadata-static.plex.tv/a/people/ad622cda5348a69268a0a2ffb5451a62.jpg" />
+<Role id="38643" filter="actor=38643" tag="Joe Chrest" tagKey="5d776828a091de001f2e64ab" role="Mitchell" thumb="https://metadata-static.plex.tv/5/people/590c0d381e3d9b6c922449804c435e03.jpg" />
+<Role id="56248" filter="actor=56248" tag="Misty Ormiston" tagKey="5d7768a0ad5437001f74b65a" role="Leeg #1" />
+<Role id="56249" filter="actor=56249" tag="Kim Ormiston" tagKey="5d7768a0ad5437001f74b659" role="Leeg #2" thumb="https://metadata-static.plex.tv/people/5d7768a0ad5437001f74b659.jpg" />
+<Role id="39978" filter="actor=39978" tag="Gwendoline Christie" tagKey="5d77683261141d001fb14d56" role="Commander Lyme" thumb="https://metadata-static.plex.tv/people/5d77683261141d001fb14d56.jpg" />
+<Role id="48516" filter="actor=48516" tag="Robert Knepper" tagKey="5d77682aeb5d26001f1de419" role="Antonius" thumb="https://metadata-static.plex.tv/d/people/d349393c8b3b26e291c93210ad033201.jpg" />
+<Role id="56250" filter="actor=56250" tag="Mark Jeffrey Miller" tagKey="5d7768294de0ee001fcc9345" role="D4 Officiant" thumb="https://metadata-static.plex.tv/people/5d7768294de0ee001fcc9345.jpg" />
+<Role id="48811" filter="actor=48811" tag="April Grace" tagKey="5d7768253c3c2a001fbcac60" role="Doctor Aurelius" thumb="https://metadata-static.plex.tv/people/5d7768253c3c2a001fbcac60.jpg" />
+<Role id="56251" filter="actor=56251" tag="David Hallyday" tagKey="5d7768a63ab0e7001f506a5e" role="Greenhouse Guard #1" thumb="https://metadata-static.plex.tv/5/people/50441fbacced8e41f79bfef9996e711d.jpg" />
+<Role id="56252" filter="actor=56252" tag="Linds Edwards" tagKey="5d77687f96b655001fdb9e1f" role="Injured Career" />
+<Role id="56253" filter="actor=56253" tag="Thomas Blake Jr." tagKey="5d7768990ea56a001e2a7aab" role="Rebel Sniper" />
+<Role id="56254" filter="actor=56254" tag="Cameron MacConomy" tagKey="5d7769957a53e9001e6ea43e" role="Pugnax" />
+<Role id="52454" filter="actor=52454" tag="Desmond Phillips" tagKey="5d7768b11999bc0020dcdfb1" role="Commander of D5" thumb="https://metadata-static.plex.tv/people/5d7768b11999bc0020dcdfb1.jpg" />
+<Role id="56255" filter="actor=56255" tag="Elle Graham" tagKey="5d7769957a53e9001e6ea43f" role="Girl in Lemon Yellow Coat" thumb="https://metadata-static.plex.tv/e/people/ea6097bb458303da3093b279acc8b418.jpg" />
+<Role id="56256" filter="actor=56256" tag="Lacy Dmitriew" tagKey="5d7769957a53e9001e6ea440" role="Rebel Nurse" thumb="https://metadata-static.plex.tv/people/5d7769957a53e9001e6ea440.jpg" />
+<Role id="56257" filter="actor=56257" tag="Kate Rachesky" tagKey="5d7769957a53e9001e6ea441" role="Capitol Girl" thumb="https://metadata-static.plex.tv/people/5d7769957a53e9001e6ea441.jpg" />
+<Role id="56202" filter="actor=56202" tag="Phillip Troy Linger" tagKey="5d77687554c0f0001f308c0c" role="Katniss&#39;s Father" />
+<Role id="56258" filter="actor=56258" tag="Bear Lawrence" tagKey="639c87a7fecd918a3fafd351" role="Everdeen Child #1" thumb="https://metadata-static.plex.tv/e/people/e750b9dfd22d06290fd6dff7f80be285.jpg" />
+<Role id="56259" filter="actor=56259" tag="Theodore Lawrence" tagKey="632105c0493da1d75283ea79" role="Everdeen Child #2" />
+<Role id="56260" filter="actor=56260" tag="Brandon Cyrus" tagKey="5d77683b85719b001f3a4d14" role="District 13 Civilian" />
+<Role id="37000" filter="actor=37000" tag="Toby Jones" tagKey="5d776826151a60001f24aa54" role="Claudius Templesmith" thumb="https://metadata-static.plex.tv/b/people/b233d74248a066e3f3b08c88a1206570.jpg" />
+<Role id="43017" filter="actor=43017" tag="Gary Sievers" tagKey="5d776829999c64001ec2cf11" role="District 7 Rebel (uncredited)" thumb="https://metadata-static.plex.tv/f/people/f9d88f46db2f8c9eb55f35b88033bd63.jpg" />
+<Role id="56261" filter="actor=56261" tag="Emma Elle Roberts" tagKey="5d7769957a53e9001e6ea434" role="Capitol Citizen (uncredited)" thumb="https://image.tmdb.org/t/p/original/2w1AetbenarsfkzasDJy58LxnMe.jpg" />
+<Role id="56262" filter="actor=56262" tag="Alexander Yassin" tagKey="5d77682f103a2d001f566582" role="District 13 Citizen (uncredited)" thumb="https://metadata-static.plex.tv/4/people/43108589e03147dd5b0dbe03dd5c333d.jpg" />
+<Role id="56263" filter="actor=56263" tag="Jasmine Ahnie" tagKey="5d7769957a53e9001e6ea432" role="District 8 Hospital Patient (uncredited)" />
+<Role id="56264" filter="actor=56264" tag="Sue-Lynn Ansari" tagKey="5d7769957a53e9001e6ea446" role="District 8 (uncredited)" thumb="https://metadata-static.plex.tv/people/5d7769957a53e9001e6ea446.jpg" />
+<Role id="65740" filter="actor=65740" tag="Scott Hunter" tagKey="5d7768ac594b2b001e6927ce" role="Peacekeeper (uncredited)" thumb="https://metadata-static.plex.tv/5/people/529ea1377415c8ee2b8969ecf19af52f.jpg" />
+<Role id="45794" filter="actor=45794" tag="Sam Hargrave" tagKey="5d77686b51dd69001fe0bc70" role="Peacekeeper (uncredited)" thumb="https://metadata-static.plex.tv/6/people/67435d5b4af9351002daa86c14cbad2d.jpg" />
+<Role id="51716" filter="actor=51716" tag="R. A. Rondell" tagKey="5d776855594b2b001e688cd1" role="Peacekeeper (uncredited)" thumb="https://image.tmdb.org/t/p/original/3luH3tMzcdn0F9XMfAVoCjdiUWs.jpg" />
+<Chapter id="4" filter="thumb=4" index="1" startTimeOffset="0" endTimeOffset="459041" thumb="/library/media/2053/chapterImages/1" />
+<Chapter id="4" filter="thumb=4" index="2" startTimeOffset="459041" endTimeOffset="1009216" thumb="/library/media/2053/chapterImages/2" />
+<Chapter id="4" filter="thumb=4" index="3" startTimeOffset="1009216" endTimeOffset="1486985" thumb="/library/media/2053/chapterImages/3" />
+<Chapter id="4" filter="thumb=4" index="4" startTimeOffset="1486985" endTimeOffset="1919959" thumb="/library/media/2053/chapterImages/4" />
+<Chapter id="4" filter="thumb=4" index="5" startTimeOffset="1919959" endTimeOffset="2231687" thumb="/library/media/2053/chapterImages/5" />
+<Chapter id="4" filter="thumb=4" index="6" startTimeOffset="2231687" endTimeOffset="2802716" thumb="/library/media/2053/chapterImages/6" />
+<Chapter id="4" filter="thumb=4" index="7" startTimeOffset="2802716" endTimeOffset="3300880" thumb="/library/media/2053/chapterImages/7" />
+<Chapter id="4" filter="thumb=4" index="8" startTimeOffset="3300880" endTimeOffset="3766429" thumb="/library/media/2053/chapterImages/8" />
+<Chapter id="4" filter="thumb=4" index="9" startTimeOffset="3766429" endTimeOffset="4167496" thumb="/library/media/2053/chapterImages/9" />
+<Chapter id="4" filter="thumb=4" index="10" startTimeOffset="4167496" endTimeOffset="4722968" thumb="/library/media/2053/chapterImages/10" />
+<Chapter id="4" filter="thumb=4" index="11" startTimeOffset="4722968" endTimeOffset="5391135" thumb="/library/media/2053/chapterImages/11" />
+<Chapter id="4" filter="thumb=4" index="12" startTimeOffset="5391135" endTimeOffset="5828239" thumb="/library/media/2053/chapterImages/12" />
+<Chapter id="4" filter="thumb=4" index="13" startTimeOffset="5828239" endTimeOffset="6541785" thumb="/library/media/2053/chapterImages/13" />
+<Chapter id="4" filter="thumb=4" index="14" startTimeOffset="6541785" endTimeOffset="7015758" thumb="/library/media/2053/chapterImages/14" />
+<Chapter id="4" filter="thumb=4" index="15" startTimeOffset="7015758" endTimeOffset="7413239" thumb="/library/media/2053/chapterImages/15" />
+<Chapter id="4" filter="thumb=4" index="16" startTimeOffset="7413239" endTimeOffset="8217250" thumb="/library/media/2053/chapterImages/16" />
+<Review id="314" filter="art=314" tag="Tom Long" text="Explosive, mostly true to the text, complex and chock full of action, &#34;The Hunger Games: Mockingjay - Part 2&#34; should more than satisfy the franchise&#39;s many fans." image="rottentomatoes://image.review.fresh" link="http://www.detroitnews.com/story/entertainment/2015/11/19/movie-review-mockingjay-hunger-games-jennifer-lawrence/76061604/" source="Detroit News" />
+<Review id="1253" filter="art=1253" tag="Matthew Lickona" text="After the forced histrionics of Part 1, it&#39;s nice to see star Jennifer Lawrence being allowed to quiet down and act again. But the story still feels stretched, a countdown that slows as it approaches zero hour." image="rottentomatoes://image.review.rotten" link="http://www.sandiegoreader.com/movies/the-hunger-games-mockingjay-part-2/" source="San Diego Reader" />
+<Review id="5251" filter="art=5251" tag="Sara Stewart" text="The final installment of the &#34;Hunger Games&#34; franchise manages to give us everything we&#39;ve been waiting for and still underwhelm." image="rottentomatoes://image.review.rotten" link="http://nypost.com/2015/11/19/splitting-up-the-last-hunger-games-was-a-huge-mistake/" source="New York Post" />
+<Review id="613" filter="art=613" tag="James Berardinelli" text="The Hunger Games movies began with much promise but after the pinnacle of Catching Fire, it has been a slog to the finish line. We&#39;re finally there and I feel more exhausted than fulfilled." image="rottentomatoes://image.review.rotten" link="http://www.reelviews.net/reelviews/hunger-games-the-mockingjay-part-2" source="ReelViews" />
+<Review id="163" filter="art=163" tag="Peter Rainer" text="Director Francis Lawrence stages the action sequences... with a modicum of flair, and Julianne Moore as rebel leader Coin gives off some sparks, but for the most part there is nothing divertingly new or different about this franchise fade-out." image="rottentomatoes://image.review.fresh" link="http://www.csmonitor.com/The-Culture/Movies/2015/1119/The-Hunger-Games-Mockingjay-Part-2-Actress-Jennifer-Lawrence-is-still-formidable" source="Christian Science Monitor" />
+<Review id="1353" filter="art=1353" tag="Steven Rea" text="If Mockingjay - Part 1 was walkier and talkier than its forerunners, Part 2 is pretty much all action - and lesser for it." image="rottentomatoes://image.review.rotten" link="http://www.philly.com/philly/entertainment/movies/20151120__The_Hunger_Games__Mockingjay_-_Part_2___End_of_the_line_for_Katniss_and_crew.html" source="Philadelphia Inquirer" />
+<Review id="965" filter="art=965" tag="Leonard Maltin" text="Despite exhilarating special effects and action sequences, Katniss meets her waterloo in &#39;Mockingjay&#39; Part 2" image="rottentomatoes://image.review.fresh" link="http://blogs.indiewire.com/leonardmaltin/katniss-meets-her-waterloo-in-mockingjay-part-2-20151119" source="leonardmaltin.com" />
+<Review id="165" filter="art=165" tag="Nell Minow" text="Director Francis Lawrence (no relation to Jennifer) has steered this big, unwieldy ship of a story safely into harbor." image="rottentomatoes://image.review.fresh" link="https://moviemom.com/the-hunger-games-mockingjay-part-2/" source="Movie Mom" />
+<Review id="38297" filter="art=38297" tag="Emily St. James" text="The best thing about The Hunger Games: Mockingjay - Part 2 is how unconcerned it is with what we expect in terms of closure of a happy ending." image="rottentomatoes://image.review.fresh" link="http://www.vox.com/culture/2015/11/20/9768210/hunger-games-mockingjay-part-2-review-final-movie" source="Vox" />
+<Review id="88" filter="art=88" tag="Sara Michelle Fetters" text="Still a strong effort, and I respect the heck out of the filmmakers&#39; collective efforts to maintain thematic fidelity to the overarching ideas Collins&#39; novels deftly end up exploring." image="rottentomatoes://image.review.fresh" link="http://moviefreak.com/hunger-games-mockingjay-part-2-2015-movie-review/#.V7Y-uPkrLmE" source="MovieFreak.com" />
+<Review id="1260" filter="art=1260" tag="Jason Bailey" text="For the past three falls, a new &#39;Hunger Games&#39; movie has come around to remind us that so many of its elements - blockbuster franchise, YA novel adaptation, multiple films from one book - aren&#39;t inherently evil." image="rottentomatoes://image.review.fresh" link="http://flavorwire.com/548155/the-hunger-games-mockingjay-part-2-is-a-satisfying-conclusion-to-an-uncommon-franchise" source="Flavorwire" />
+<Review id="3215" filter="art=3215" tag="Tasha Robinson" text="As wobbly as Mockingjay - Part 2 is, it&#39;s powerful because its characters and conflicts have become so familiar in the culture, and because it completes a long and painful journey." image="rottentomatoes://image.review.fresh" link="http://www.theverge.com/2015/11/18/9756404/hunger-games-mockingjay-part-2-movie-review" source="The Verge" />
+<Review id="955" filter="art=955" tag="Christopher Orr" text="A movie that is too silly to be so somber, and too somber to be much fun." image="rottentomatoes://image.review.rotten" link="http://www.theatlantic.com/entertainment/archive/2015/11/mockingjay-part-2-is-a-dull-slog-hunger-games/416874/" source="The Atlantic" />
+<Review id="12176" filter="art=12176" tag="Andrew Lapin" text="This Hunger Game is one too many, a 2010-era cash grab in its purest form, more akin to a stern-faced curtain call than a fleshed-out story with a beginning, middle, and end." image="rottentomatoes://image.review.rotten" link="http://www.npr.org/2015/11/19/456504011/mockingjay-part-2-sees-a-franchise-sputter-to-a-stop?utm_medium=RSS&amp;utm_campaign=movies" source="NPR" />
+<Review id="1252" filter="art=1252" tag="Katie Walsh" text="It&#39;s good enough to stand on its own, and will also satiate fans craving an appropriate ending to the nihilistic journey." image="rottentomatoes://image.review.fresh" source="Tribune News Service" />
+<Review id="2556" filter="art=2556" tag="Michael Sragow" text="The Hunger Games: Mockingjay Part 2 draws on a well of feeling, imagination, and, yes, sensibility that extends beyond the movie screen." image="rottentomatoes://image.review.fresh" link="http://www.filmcomment.com/blog/deep-focus-the-hunger-games-the-mockingjay-part-2/" source="Film Comment Magazine" />
+<Review id="427" filter="art=427" tag="Kenneth Turan" text="The Hunger Games: Mockingjay - Part 2 is exactly what you would expect from its ungainly title, and that turns out to be not quite enough." image="rottentomatoes://image.review.rotten" link="http://www.latimes.com/entertainment/movies/la-et-mn-hunger-games-review-20151119-column.html" source="Los Angeles Times" />
+<Review id="959" filter="art=959" tag="Ben Sachs" text="This fourth and final installment of the Hunger Games franchise is by far the most dour, consisting mainly of dim, uninspired battle sequences." image="rottentomatoes://image.review.rotten" link="http://www.chicagoreader.com/chicago/the-hunger-games-mockingjay-part-2/MovieTimes?oid=19310340" source="Chicago Reader" />
+<Review id="159" filter="art=159" tag="Joe Morgenstern" text="Katniss has remained, in Jennifer Lawrence&#39;s portrayal, a vividly vulnerable creature of flesh and blood surrounded by sci-fi extravagance of variable quality." image="rottentomatoes://image.review.fresh" link="http://www.wsj.com/articles/the-hunger-games-mockingjaypart-2-review-jennifer-lawrence-emerges-victorious-1447961853" source="Wall Street Journal" />
+<Review id="805" filter="art=805" tag="Ty Burr" text="Katniss is a Joan of Arc for a generation of reluctant warriors, and &#34;Mockingjay - Part 2&#34; is a war movie for those distrustful of any and all leaders, especially the ones trying to sell you on a future." image="rottentomatoes://image.review.fresh" link="http://www.bostonglobe.com/arts/movies/2015/11/18/hunger/yOdMextvI1jnjV7z5PIjjK/story.html" source="Boston Globe" />
+</Video>
+</Hub>
+</Related>
+</Video>
+</MediaContainer>
